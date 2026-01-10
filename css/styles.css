@@ -51,7 +51,7 @@ body {
     background-size: cover;
     background-position: center;
     height: 60vh;
-    display: flex;
+    /*display: flex;*/
     align-items: center;
     justify-content: center;
     text-align: center;
