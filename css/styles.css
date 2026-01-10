@@ -45,11 +45,20 @@ body {
   user-select: none; /* opcional, evita selección de texto accidental */
 }
 
-.logo { font-weight: bold; font-size: 1.5rem; color: var(--primary); }
-.logo a { text-decoration: none; color: var(--primary); }
+.logo { font-size: 1.5rem; color: var(--primary); }
+.logo li { text-decoration: none; color: var(--primary); }
 
 .nav-links { list-style: none; display: flex; gap: 20px; }
-.nav-links a { text-decoration: none; color: var(--dark); font-weight: 700; }
+.nav-links a { text-decoration: none; color: var(--dark);  }
+.nav-links li { font-weight:900; text-decoration: none; color: var(--dark);  }
+
+.nav-links a:hover {
+ text-decoration: underline;
+}
+
+.nav-links li:hover {
+ text-decoration: underline;
+}
 
 /* Hero Section */
 .hero {
@@ -68,7 +77,7 @@ body {
 .hero h1 { font-family: var(--font-heading); font-size: 3rem; margin-bottom: 1rem; }
 .btn {
     display: inline-block;
-    font-size: 200%;
+    font-size: 150%;
     color:#696968;
     background: rgb(245, 224, 242);
     /*color: var(--dark);*/

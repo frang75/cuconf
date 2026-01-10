@@ -9,7 +9,6 @@ const sendBtn = document.getElementById('sendBtn');
 
 // Abrir / cerrar diálogo soy carla
 openBtn.addEventListener('click', () => {
-  console.log('Se hizo click en NotebookLM');
   chat = document.getElementById('chatModal')
   chat.classList.remove('hidden');
   // chat.remove('hidden');
