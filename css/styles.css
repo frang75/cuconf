@@ -5,6 +5,13 @@
   font-style: normal;
 }
 
+@font-face {
+  font-family: 'GildaDisplay';
+  src: url('./GildaDisplay-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
 :root {
     --primary: hsl(0, 0%, 65%); /* Azul calmante */
     --secondary: #000000; /* Verde agua */
@@ -80,9 +87,39 @@ body {
 }
 
 /* Blog Grid */
-.blog-section { padding: 4rem 10%; }
-.blog-section h2 { text-align: center; margin-bottom: 2rem; color: var(--dark); }
+.blog-section {
+    background: #c3afdf;
+    padding: 4rem 10%;
+}
 
+.blog-section h2 {
+    font-family:'GildaDisplay';
+    font-size: 250%;
+    text-align: center;
+    margin-bottom: 2rem;
+    color: rgb(61, 61, 61);
+}
+
+.about-section {
+    background: rgb(245, 224, 242);
+    padding: 4rem 10%;
+    text-align:justify;
+
+}
+
+.about-section h2 {
+    font-family:'GildaDisplay';
+    font-size: 225%;
+    text-align: center;
+    margin-bottom: 2rem;
+    color: rgb(61, 61, 61);
+}
+
+.about-section p {
+  max-width: 800px;
+    margin: 0 auto;
+   margin-bottom: 20px; /* espacio debajo de cada párrafo */
+}
 .blog-grid {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
@@ -93,7 +130,9 @@ body {
     background: rgb(255, 233, 233);
     border-radius: 8px;
     overflow: hidden;
-    box-shadow: 0 4px 15px rgb(255, 232, 251);
+
+box-shadow: 0 4px 15px #9f75da;
+    /*box-shadow: 0 4px 15px rgb(255, 232, 251);*/
     transition: transform 0.3s;
 }
 .card:hover { transform: translateY(-5px); }
@@ -111,7 +150,14 @@ body {
 .meta { color: #000000; font-size: 0.9rem; display: block; margin-bottom: 30px; }
 .post-content p { margin-bottom: 1.5rem; }
 
-footer { text-align: center; padding: 2rem; background: var(--dark); color: white; margin-top: 4rem; }
+footer {
+    background: rgb(245, 224, 242);
+    font-weight: bold;
+    text-align: center;
+    padding: 2rem;
+    color: var(--dark);
+    margin-top: 4rem;
+}
 
 
 #videoSection {
