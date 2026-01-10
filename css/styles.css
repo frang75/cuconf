@@ -1,0 +1,154 @@
+@font-face {
+  font-family: 'Montserrat';
+  src: url('./Montserrat-Light.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+:root {
+    --primary: hsl(0, 0%, 65%); /* Azul calmante */
+    --secondary: #000000; /* Verde agua */
+    --dark: #aaaaaa;
+    --light: #ffd1ff;
+    --text: #000000;
+    --font-heading: 'Montserrat', sans-serif;
+    --font-body: 'Montserrat', sans-serif;
+}
+
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+body {
+    font-family: var(--font-body);
+    background-color: var(--light);
+    color: var(--text);
+    line-height: 1.6;
+}
+
+/* Navegación */
+.navbar {
+    background: rgb(245, 224, 242);
+    padding: 1rem 5%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+}
+.navbar li {
+ cursor: pointer; /* muy importante para que se vea clickeable */
+  user-select: none; /* opcional, evita selección de texto accidental */
+}
+
+.logo { font-weight: bold; font-size: 1.5rem; color: var(--primary); }
+.logo a { text-decoration: none; color: var(--primary); }
+
+.nav-links { list-style: none; display: flex; gap: 20px; }
+.nav-links a { text-decoration: none; color: var(--dark); font-weight: 700; }
+
+/* Hero Section */
+.hero {
+    background: linear-gradient(rgb(168, 167, 255), rgb(166, 163, 255)), url('https://source.unsplash.com/1600x900/?calm,nature');
+    background-size: cover;
+    background-position: center;
+    height: 60vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: rgb(252, 252, 252);
+}
+
+.hero h1 { font-family: var(--font-heading); font-size: 3rem; margin-bottom: 1rem; }
+.btn {
+    display: inline-block;
+    background: var(--secondary);
+    color: var(--dark);
+    padding: 10px 25px;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+    margin-top: 20px;
+    transition: transform 0.3s;
+}
+.btn:hover { transform: translateY(-3px); }
+
+/* Blog Grid */
+.blog-section { padding: 4rem 10%; }
+.blog-section h2 { text-align: center; margin-bottom: 2rem; color: var(--dark); }
+
+.blog-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 30px;
+}
+
+.card {
+    background: rgb(255, 233, 233);
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 4px 15px rgb(255, 232, 251);
+    transition: transform 0.3s;
+}
+.card:hover { transform: translateY(-5px); }
+
+.card-img { width: 100%; height: 200px; object-fit: cover; }
+.card-content { padding: 20px; }
+.card-title { font-size: 1.2rem; margin-bottom: 10px; color: var(--dark); }
+.card-excerpt { font-size: 0.9rem; margin-bottom: 15px; color: #666; }
+.read-more { color: var(--primary); text-decoration: none; font-weight: bold; }
+
+/* Single Post Styles */
+.single-post { max-width: 800px; margin: 2rem auto; padding: 0 20px; background: white; padding: 40px; border-radius: 8px;}
+.post-img { width: 100%; height: auto; border-radius: 8px; margin-bottom: 20px; }
+.post-header h1 { margin-bottom: 10px; color: var(--dark); }
+.meta { color: #000000; font-size: 0.9rem; display: block; margin-bottom: 30px; }
+.post-content p { margin-bottom: 1.5rem; }
+
+footer { text-align: center; padding: 2rem; background: var(--dark); color: white; margin-top: 4rem; }
+
+
+
+/* IA chat CSS */
+button {
+  cursor: pointer;
+}
+
+.modal {
+  position: fixed;
+  inset: 0;
+  background: rgba(0,0,0,0.4);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.hidden {
+  display: none;
+}
+
+.modal-content {
+  background: white;
+  width: 400px;
+  height: 500px;
+  display: flex;
+  flex-direction: column;
+  border-radius: 8px;
+}
+
+#messages {
+  flex: 1;
+  padding: 10px;
+  overflow-y: auto;
+}
+
+.user {
+  text-align: right;
+  color: #0066cc;
+  margin: 6px 0;
+}
+
+.bot {
+  text-align: left;
+  color: #333;
+  margin: 6px 0;
+}
+

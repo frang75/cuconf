@@ -1,0 +1,61 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+button {
+  cursor: pointer;
+}
+
+.modal {
+  position: fixed;
+  inset: 0;
+  background: rgba(0,0,0,0.4);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.hidden {
+  display: none;
+}
+
+.modal-content {
+  background: white;
+  width: 400px;
+  height: 500px;
+  display: flex;
+  flex-direction: column;
+  border-radius: 8px;
+}
+
+header, footer {
+  padding: 10px;
+  background: #f0f0f0;
+}
+
+#messages {
+  flex: 1;
+  padding: 10px;
+  overflow-y: auto;
+}
+
+.user {
+  text-align: right;
+  color: #0066cc;
+  margin: 6px 0;
+}
+
+.bot {
+  text-align: left;
+  color: #333;
+  margin: 6px 0;
+}
+
+footer {
+  display: flex;
+  gap: 5px;
+}
+
+footer input {
+  flex: 1;
+}

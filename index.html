@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cuéntalo, confía | Espacio seguro para adolescentes</title>
+
+    <!-- Estilos -->
+    <link rel="stylesheet" href="css/styles.css">
+
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Merriweather:wght@300;700&display=swap" rel="stylesheet">
+</head>
+<body>
+
+    <!-- Navegación -->
+    <nav class="navbar" aria-label="Navegación principal">
+        <div class="logo">Cuéntalo, confía</div>
+        <ul class="nav-links">
+            <li><a href="#inicio">Inicio</a></li>
+            <li><a href="#blog">Artículos</a></li>
+            <li><a href="#quienes-somos">¿Quiénes somos?</a></li>
+            <!-- <li id="iaempatica"><a href="#ia">IA Empática</a></li> -->
+            <li id="iaempatica">IA Empática</a></li>
+        </ul>
+    </nav>
+
+    <!-- Header principal -->
+    <header class="hero" id="inicio">
+        <div class="hero-content">
+            <h1>Este puede ser tu espacio seguro</h1>
+            <p>
+                Esta web nace para apoyar a adolescentes que están pasando por momentos
+                difíciles por culpa del bullying. Aquí no estás solo/a.
+            </p>
+        </div>
+    </header>
+
+    <main>
+
+        <!-- Sección motivacional -->
+        <section class="hero secondary">
+            <div class="hero-content">
+                <h2>Estás siendo súper valiente</h2>
+                <p>Lo que estás viviendo importa. Y lo que sientes también.</p>
+            </div>
+        </section>
+
+        <!-- Sección motivacional -->
+        <section class="hero secondary">
+            <div class="hero-content">
+                <h2>Estás siendo súper valiente</h2>
+                <p>Lo que estás viviendo importa. Y lo que sientes también.</p>
+            </div>
+        </section>
+
+        <!-- Sección llamada a la acción -->
+        <section class="hero secondary">
+            <div class="hero-content">
+                <h2>Cuéntalo, confía</h2>
+                <p>Tu voz importa. Aquí no estás solo/a.</p>
+                <a href="#blog" class="btn">¡Quiero investigar!</a>
+            </div>
+        </section>
+
+        <!-- Sección Quiénes somos -->
+        <section id="quienes-somos" class="about-section">
+            <h2>¿Quiénes somos?</h2>
+            <p>¡Hola! Soy Carla y soy la persona que le ha dado vida a este rincón.</p>
+            <p>Aparte de ser quien creó esta página, soy alguien que está convencida de que no se puede seguir mirando hacia otro lado. Y no, no hay ninguna gran empresa ni una corporación detrás de esto. Soy una adolescente igual que tú (con mis días buenos y mis días de querer quedarme en pijama) que un día decidió que ya era suficiente. Estaba cansada de ver cómo el bullying sigue haciendo daño sin que existan suficientes lugares donde sentirse realmente seguro.</p>
+            <p>Me considero una persona inconformista. Creo que no se están tomando las medidas necesarias para frenar este problema que sigue rompiendo a muchos de nosotros por dentro.</p>
+            <p>Puede parecer que soy alguien muy valiente por abrirme así y hablar de un tema tan grave, pero la realidad es que no siempre he sido así. Sé perfectamente lo que es no reconocerte al mirarte al espejo, sentir ese miedo constante, tener mil dudas, traumas y nudos en la garganta que no te dejan vivir tranquilo/a. Precisamente porque sé lo que se siente, he creado este espacio para ti.</p>
+            <p>Sé que ahora mismo puede que te sientas solo/a y que no encuentres el camino, pero hazme caso: ya estás dando el primer paso y eso es lo correcto.</p>
+            <p>A veces pensamos que podemos con todo, pero la mejor manera de salir de este bache es soltando lo que llevas dentro. Desahogarte es el principio, y buscar ayuda profesional es lo que te dará las herramientas para volver a estar bien. No tienes que hacerlo todo tú solo/a.</p>
+            <p>Se que no nos estamos viendo el uno al otro, pero espero que este espacio te sirva para no tener miedo, para entenderte y, sobre todo, para sentirte mejor.</p>
+            <p>Estás siendo muy valiente, ¡ánimo!</p>
+        </section>
+
+        <!-- Sección Artículos -->
+        <section id="blog" class="blog-section">
+            <h2>Artículos</h2>
+            <div class="blog-grid" id="blog-container">
+                <!-- Los artículos se cargarán aquí con JavaScript -->
+            </div>
+        </section>
+
+          <!-- Sección IA Empática -->
+        <!-- <section id="ia" class="ia-section">
+            <h2>IA Empática</h2>
+            <p>
+                Esta herramienta está pensada para escucharte y orientarte de forma respetuosa.
+                No sustituye a una persona, pero puede ayudarte a ordenar lo que sientes.
+            </p>
+        </section> -->
+    </main>
+
+    <!-- Footer -->
+    <footer>
+        <p>&copy; 2025 Cuéntalo, confía — Aquí estás seguro/a.</p>
+    </footer>
+
+
+<div id="chatModal" class="modal hidden">
+<!-- <div id="chatModal"> -->
+  <div class="modal-content">
+    <header>
+      <h3>IA empática</h3>
+      <button id="closeChat">✕</button>
+    </header>
+
+    <div id="messages"></div>
+
+    <footer>
+      <input id="questionInput" placeholder="Haz una pregunta..." />
+      <button id="sendBtn">Enviar</button>
+    </footer>
+  </div>
+</div>
+
+    <!-- JavaScript -->
+    <script src="js/script.js"></script>
+    <script src="chat.js"></script>
+
+</body>
+</html>

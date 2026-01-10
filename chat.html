@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>IA empática Mock</title>
+  <link rel="stylesheet" href="styles_chat.css">
+</head>
+<body>
+
+<button id="openChat">Abrir IA empática</button>
+
+<div id="chatModal" class="modal hidden">
+  <div class="modal-content">
+    <header>
+      <h3>IA empática</h3>
+      <button id="closeChat">✕</button>
+    </header>
+
+    <div id="messages"></div>
+
+    <footer>
+      <input id="questionInput" placeholder="Haz una pregunta..." />
+      <button id="sendBtn">Enviar</button>
+    </footer>
+  </div>
+</div>
+
+<script src="chat.js"></script>
+</body>
+</html>
