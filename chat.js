@@ -6,6 +6,7 @@ const input = document.getElementById('questionInput');
 const openBtn = document.getElementById('iaempatica');
 const closeBtn = document.getElementById('closeChat');
 const sendBtn = document.getElementById('sendBtn');
+const clearBtn = document.getElementById('clearBtn');
 
 // Abrir / cerrar diálogo soy carla
 openBtn.addEventListener('click', () => {
@@ -17,6 +18,10 @@ openBtn.addEventListener('click', () => {
 
 closeBtn.addEventListener('click', () => {
   modal.classList.remove('visible');
+});
+
+clearBtn.addEventListener('click', () => {
+  messages.innerHTML = '';
 });
 
 // Enviar con botón o ENTER
@@ -42,7 +47,6 @@ async function sendQuestion() {
   const question = input.value.trim();
   if (!question) return;
 
-  input.value = '';
   addMessage(question, 'user');
 
   try {
@@ -74,6 +78,7 @@ async function sendQuestion() {
 
     const data = await response.json();
     addMessage(data.body, 'bot');
+    input.value = '';
 
   } catch (error) {
     addMessage('No se pudo contactar con el servicio.', 'bot');

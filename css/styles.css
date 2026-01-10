@@ -45,6 +45,9 @@ body {
   user-select: none; /* opcional, evita selección de texto accidental */
 }
 
+.button-chat {
+    float:right;
+}
 .logo { font-size: 1.5rem; color: var(--primary); }
 .logo a { font-size: 1.5rem; color: var(--primary); text-decoration: none;}
 .logo a:hover { text-decoration: underline;}
@@ -241,12 +244,28 @@ button {
 }
 
 .modal-content {
-  background: white;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background: rgb(245, 224, 242);
   width: 400px;
   height: 500px;
   display: flex;
   flex-direction: column;
   border-radius: 8px;
+}
+
+.modal-content button {
+    font-family:'Montserrat';
+}
+
+.modal-content input {
+  height: 100px;
+}
+
+.modal-content footer {
+    padding-left: -2rem;
 }
 
 #messages {
@@ -265,5 +284,12 @@ button {
   text-align: left;
   color: #333;
   margin: 6px 0;
+}
+
+
+textarea {
+    font-family:'Montserrat';
+    padding: 5px;
+  resize: none; /* el usuario no podrá cambiar tamaño */
 }
 
