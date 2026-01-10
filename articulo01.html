@@ -7,8 +7,12 @@
     <link rel="stylesheet" href="css/styles.css">
 </head>
 <body>
-    <nav class="navbar">
+
+    <nav class="navbar" aria-label="Navegación principal">
         <div class="logo"><a href="index.html#blog">Cuéntalo, confía</a></div>
+        <ul class="nav-links">
+            <li id="iaempatica">IA Empática</a></li>
+        </ul>
     </nav>
 
     <article class="single-post">
@@ -60,5 +64,25 @@
     <footer>
         <p>&copy; Cuéntalo, confía. Tu lugar seguro.</p>
     </footer>
+
+    <div id="chatModal" class="modal fade">
+    <!-- <div id="chatModal"> -->
+    <div class="modal-content">
+        <header>
+        <h3>IA empática</h3>
+        <button id="closeChat">✕</button>
+        </header>
+        <div id="messages"></div>
+        <footer>
+        <input id="questionInput" placeholder="Haz una pregunta..." />
+        <button id="sendBtn">Enviar</button>
+        </footer>
+    </div>
+    </div>
+
+    <!-- JavaScript -->
+    <script src="js/script.js"></script>
+    <script src="chat.js"></script>
+
 </body>
 </html>
