@@ -7,7 +7,7 @@ const openBtn = document.getElementById('iaempatica');
 const closeBtn = document.getElementById('closeChat');
 const sendBtn = document.getElementById('sendBtn');
 
-// Abrir / cerrar diálogo
+// Abrir / cerrar diálogo soy carla
 openBtn.addEventListener('click', () => {
   console.log('Se hizo click en NotebookLM');
   chat = document.getElementById('chatModal')
