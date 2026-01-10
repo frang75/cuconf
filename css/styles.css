@@ -46,7 +46,8 @@ body {
 
 /* Hero Section */
 .hero {
-    background: linear-gradient(rgb(168, 167, 255), rgb(166, 163, 255)), url('https://source.unsplash.com/1600x900/?calm,nature');
+    /*background: linear-gradient(rgb(168, 167, 255), rgb(166, 163, 255)), url('https://source.unsplash.com/1600x900/?calm,nature');*/
+    background: #c3afdf;
     background-size: cover;
     background-position: center;
     height: 60vh;
@@ -106,6 +107,21 @@ body {
 footer { text-align: center; padding: 2rem; background: var(--dark); color: white; margin-top: 4rem; }
 
 
+#videoSection {
+  width: 100%;   /* ancho fijo o relativo */
+  height: 550px;   /* alto fijo o relativo */
+  overflow: hidden;
+  position: relative;
+  border-radius: 8px; /* opcional */
+}
+
+#videoSection video {
+  width: 100%;
+  height: 100%;
+  object-fit: cover; /* ajusta video sin deformarlo */
+  display: block;
+  /*object-position: top;*/
+}
 
 /* IA chat CSS */
 button {
