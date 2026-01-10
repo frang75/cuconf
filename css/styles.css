@@ -61,8 +61,10 @@ body {
 .hero h1 { font-family: var(--font-heading); font-size: 3rem; margin-bottom: 1rem; }
 .btn {
     display: inline-block;
-    background: var(--secondary);
-    color: var(--dark);
+    font-size: 200%;
+    color:#696968;
+    background: rgb(245, 224, 242);
+    /*color: var(--dark);*/
     padding: 10px 25px;
     text-decoration: none;
     border-radius: 5px;
@@ -70,7 +72,12 @@ body {
     margin-top: 20px;
     transition: transform 0.3s;
 }
-.btn:hover { transform: translateY(-3px); }
+
+.btn:hover {
+    /*transform: translateY(-3px);*/
+    background: rgb(245, 224, 242);
+    box-shadow: 0 6px 12px rgba(0,0,0,0.25);
+}
 
 /* Blog Grid */
 .blog-section { padding: 4rem 10%; }
