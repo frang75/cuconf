@@ -46,6 +46,8 @@ body {
 }
 
 .logo { font-size: 1.5rem; color: var(--primary); }
+.logo a { font-size: 1.5rem; color: var(--primary); text-decoration: none;}
+.logo a:hover { text-decoration: underline;}
 .logo li { text-decoration: none; color: var(--primary); }
 
 .nav-links { list-style: none; display: flex; gap: 20px; }
@@ -64,6 +66,20 @@ body {
 .hero {
     /*background: linear-gradient(rgb(168, 167, 255), rgb(166, 163, 255)), url('https://source.unsplash.com/1600x900/?calm,nature');*/
     background: #c3afdf;
+    background-size: cover;
+    background-position: center;
+    /*height: 60vh;*/
+    /*display: flex;*/
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: rgb(252, 252, 252);
+}
+
+/* Hero Section */
+.hero-article {
+    /*background: linear-gradient(rgb(168, 167, 255), rgb(166, 163, 255)), url('https://source.unsplash.com/1600x900/?calm,nature');*/
+    background: white;
     background-size: cover;
     background-position: center;
     /*height: 60vh;*/
@@ -158,7 +174,16 @@ box-shadow: 0 4px 15px #9f75da;
 .post-img { width: 100%; height: auto; border-radius: 8px; margin-bottom: 20px; }
 .post-header h1 { margin-bottom: 10px; color: var(--dark); }
 .meta { color: #000000; font-size: 0.9rem; display: block; margin-bottom: 30px; }
-.post-content p { margin-bottom: 1.5rem; }
+.post-content p { margin-bottom: 1.5rem; text-align: justify; }
+.post-content img {  display:block ; margin: 0 auto; }
+.post-content h2 {  margin-bottom: 10px; }
+
+.inline-img
+{
+  height: 1em;           /* mismo alto que el texto */
+  width: 1em;
+    vertical-align: middle;
+}
 
 footer {
     background: rgb(245, 224, 242);
