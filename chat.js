@@ -10,13 +10,13 @@ const sendBtn = document.getElementById('sendBtn');
 // Abrir / cerrar diálogo soy carla
 openBtn.addEventListener('click', () => {
   chat = document.getElementById('chatModal')
-  chat.classList.remove('hidden');
+  chat.classList.toggle('visible');
   // chat.remove('hidden');
   //  modal.classList.remove('hidden');
 });
 
 closeBtn.addEventListener('click', () => {
-  modal.classList.add('hidden');
+  modal.classList.remove('visible');
 });
 
 // Enviar con botón o ENTER
