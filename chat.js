@@ -50,11 +50,11 @@ async function sendQuestion() {
   addMessage(question, 'user');
 
   try {
-    const url = `https://jsonplaceholder.typicode.com/posts/1`;
+    // const url = `https://jsonplaceholder.typicode.com/posts/1`;
 
 
-    // const url = `https://mi-servicio-notebooklm.mock/chat?question=${
-    //     encodeURIComponent(question)}`;
+    const url = `https://nappgui.com/cuconf/iaserv/iachat.php?mensaje=${
+        encodeURIComponent(question)}`;
 
     const response = await fetch(url);
 
@@ -77,7 +77,7 @@ async function sendQuestion() {
     // }
 
     const data = await response.json();
-    addMessage(data.body, 'bot');
+    addMessage(data.response, 'bot');
     input.value = '';
 
   } catch (error) {

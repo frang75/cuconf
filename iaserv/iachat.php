@@ -84,7 +84,13 @@ class PilotNotebookLM {
 
         $ch = curl_init($url);
         $body = json_encode($payload);
-        curl_setopt($ch, CURLOPT_HTTPHEADER, ['Content-Type: application/json']);
+
+        $headers = [
+            'Content-Type: application/json',
+            'Access-Control-Allow-Origin: *'
+        ];
+
+        curl_setopt($ch, CURLOPT_HTTPHEADER, $headers);
         curl_setopt($ch, CURLOPT_POST, 1);
         curl_setopt($ch, CURLOPT_POSTFIELDS, $body);
         curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);

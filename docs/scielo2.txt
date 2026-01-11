@@ -1,0 +1,324 @@
+Influence of anhedonia on the clinical course of depressive disorder
+
+ME Presa-García1  , A García-Luque2  , L Luis Callol-Sánchez3  , A Abril-García4  , MA Muñoz-Lucas5 
+1Teniente coronel médico psiquiatra. Jefe del Servicio de Psiquiatría y Salud Mental. Hospital Central de la Defensa.
+
+2Teniente coronel médico. Jefe del Servicio de Farmacología Clínica. Hospital Central de la Defensa.
+
+3Profesor emérito de medicina UCM.
+
+4Médico psiquiatra. Jefe de Consultas Externas del Servicio de Psiquiatría y Salud Mental. Hospital Central de la Defensa.
+
+5Ayuda a la investigación. Jefatura de Docencia e Investigación. Hospital Central de la Defensa.
+
+RESUMEN
+
+La anhedonia es la ausencia o capacidad reducida para experimentar placer. Es un síntoma importante en la depresión y un síntoma negativo de la esquizofrenia. Se presenta un estudio descriptivo prospectivo (diciembre 2018 a julio de 2020) con un seguimiento de seis meses, desarrollado en las Consultas Externas de Psiquiatría del Hospital Central de la Defensa Gómez Ulla. Para cuantificar la anhedonia se ha empleado la escala SHAPS y para el seguimiento de la clínica depresiva el cuestionario CET-DE. Se aplican también otras escalas como la escala CGI (impresión subjetiva gravedad/mejoría por parte del psiquiatra) y la EVA modificada (impresión subjetiva del paciente de su estado de gravedad). De 60 pacientes reclutados, 48 completaron el protocolo del estudio (2 visitas), siendo 60 % mujeres con una media de edad de 48 años. En la visita basal el porcentaje de anhedónicos fue del 67 %, de los cuales el 48 % fue considerado grave por parte del profesional sanitario. La presencia de anhedonia se relacionó con mayor puntuación en la escala CET-DE. Tras la intervención psicoterapéutica, en la visita final el porcentaje de anhedónicos fue del 29 % y se clasificaron como graves por parte del profesional sanitario un 25 % de los pacientes. La persistencia de anhedonia en la visita final fue un factor de mala evolución clínica, pudiendo concluir que es un componente de la sintomatología residual de la depresión y un indicador de mal pronóstico.
+
+Palabras clave: Depresión; Anhedonia; Pronóstico
+
+SUMMARY
+
+Anhedonia is the absence or reduced ability to experience pleasure. It is a major symptom of depression and a negative symptom of schizophrenia. We present a prospective descriptive study (December 2018 to July 2020) with a 6-month follow-up, developed in the Psychiatric Outpatient Clinic of the “Hospital Central de la Defensa, Gómez Ulla”. The SHAPS scale was used to quantify anhedonia and the CET-DE questionnaire was used to monitor clinical depression. Other scales such as the CGI scale (subjective impression of severity/improvement was use by the psychiatrist) and the modified VAS (patient’s subjective impression of his or her state of severity) were also applied. Out of 60 patients recruited, 48 completed the study protocol (2 visits), 60 % were women with a mean age of 48 years. At the firts visit the percentage of anhedonia was 67 %, with 48 % considered severe by the physician. The presence of anhedonia was related to a higher score on the CET-DE scale. After the psychotherapeutic intervention, the percentage of anhedonia at the last visit was 29% in general and 25% of patients were classified as severe by the health professional. The persistence of anhedonia at the final visit was a factor of poor clinical evolution and we can conclude that it is a component of the residual symptomatology of depression and an indicator of poor prognosis.
+
+Keywords: Depression; Anhedonia; Prognostic
+
+INTRODUCCIÓN
+
+La anhedonia es un concepto complejo que se conoce como la ausencia o capacidad reducida para experimentar placer. Específicamente, según el Manual de Diagnóstico y Estadística, DSM-V, es un síntoma mayor de la depresión y un síntoma negativo de la esquizofrenia1.
+
+En la última década, gracias al avance en la investigación, resulta difícil concebir la anhedonia como un proceso unitario, que solo se manifiesta en la incapacidad para sentir placer, se trata más bien de un desequilibrio de los complejos procesos psicológicos involucrados en la satisfacción2.
+
+Varios autores sugieren que la anhedonia tiene su origen en deficiencias de diversas facetas en el proceso de recompensa, incluido el deseo por conseguirla, la anticipación ante la recompensa, el esfuerzo por lograrla, así como aspectos cognitivos del aprendizaje y la asociación entre estímulo y recompensa. Todo ello implica una alteración en la regulación de neurotransmisores3.
+
+El mecanismo neurobiológico de la anhedonia es poco conocido. Décadas de investigación apoyan un déficit de dopamina, pero otros autores consideran la implicación de diferentes neurotransmisores y neuropéptidos, como opioides, glutamato, serotonina, ácido gamma-aminobutírico o galanina4-8.
+
+Para cuantificar y medir la anhedonia se utilizan escalas y estudios del comportamiento. Rizvi clasifica en dos grupos las escalas que miden la anhedonia, las de primera generación que estudia la anhedonia de forma general, y las de segunda generación que permiten estudiar los diferentes componentes de la anhedonia9.
+
+Con respecto al primer grupo, se considera de especial relevancia la «Escala Snaith-Hamilton (SHAPS)10», que mide la capacidad de sentir placer (satisfacción consumada) en los últimos días. Está específicamente validada en población depresiva y evita el posible sesgo cultural, considerándose la escala «gold standard».
+
+Existen pocos trabajos publicados en los que se cuantifique la anhedonia en el momento del diagnóstico de la depresión, así como tras el tratamiento, motivo por el cual los autores nos planteamos realizar un estudio, en la práctica clínica habitual, explorando de forma sistemática la anhedonia al inicio del diagnóstico del cuadro depresivo, así como tras la intervención psiquiátrica y su relación con la gravedad del cuadro clínico.
+
+PACIENTES, MATERIAL Y MÉTODO
+
+Se trata de un estudio descriptivo prospectivo realizado en un hospital de tercer nivel, durante el período de tiempo comprendido desde diciembre de 2018 hasta julio de 2020, con un seguimiento de 6 meses tras el diagnóstico.
+
+La población de estudio fue de 60 pacientes que acudieron por primera vez a consultas externas de Psiquiatría con la sospecha de diagnóstico de trastorno depresivo. Se realizó un muestreo no probabilístico, con los siguientes criterios de selección:
+
+
+Criterios de inclusión
+
+Mayor de edad.
+
+Diagnóstico de trastorno depresivo según criterios de DSM-V.
+
+Firma de consentimiento informado.
+
+Criterios de exclusión
+
+Otros trastornos psiquiátricos distintos al cuadro depresivo
+
+Amaurosis.
+
+Se protocolizaron dos visitas, la visita basal, y la visita final (a los seis meses de la inicial). En la primera consulta se realizó una entrevista semiestructurada en la que se recogieron los datos sociodemográficos y la anamnesis del paciente. Además, se completaron los siguientes cuestionarios heteroaplicados y autoaplicados para la evaluación de la psicopatología:
+
+
+Cuestionario Estructural Tetradimensional, para el diagnóstico, la clasificación y el seguimiento de la depresión (CET-DE)11: consta de 63 ítems divididos en cuatro dimensiones que exploran psicopatológicamente el cuadro depresivo; permite describir perfiles semiológicos y consta de un valor global denominado Dimensión Total (D Total).
+
+Cada ítem puede ser puntuado de cero a cuatro, donde cero es ausencia del síntoma, uno es síntoma «ligero o esporádico», dos es síntoma «medio o poco frecuente», tres es «síntoma intenso y frecuente» y cuatro es síntoma «muy intenso y frecuente». Dicho cuestionario queda resumido en la figura 1.
+
+Impresión Clínica Global (Clinical Global Impression CGI). Evalúa a pacientes con trastornos mentales. Se trata de una escala heteroaplicada que consta de dos subescalas, una que valora la gravedad y otra, la mejoría del cuadro patológico.
+
+La escala SHAPS13. Es un instrumento de catorce ítems, autoadministrado, que se utiliza para medir la capacidad hedónica. Cada ítem tiene cuatro categorías de respuesta: A. Totalmenteen desacuerdo, B. En desacuerdo, C. De acuerdo y D. Totalmente de acuerdo.
+
+Las opciones A y B reciben una puntuación de uno y las C y D una puntuación de cero. La SHAPS es la suma de las puntuaciones de los catorce ítems, de modo que la puntuación total varía de cero a catorce. Se considera que existe anhedonia a una puntación de la SHAPS superior a dos. A mayor puntuación total de SHAPS más elevado es el estado actual de anhedonia.
+
+Escala Visual Analógica modificada (EVA modificada). Es una escala visual analógica autoaplicada, ampliamente utilizada para la valoración del dolor físico14. Consiste en una línea horizontal de diez centímetros, en cuyos extremos se encuentran las expresiones extremas de un síntoma. En el izquierdo se ubica la ausencia o menor intensidad y en el derecho la mayor intensidad. En este trabajo se decidió adaptarla para la evaluación subjetiva del paciente depresivo. El paciente debía responder a la pregunta «¿Cómo de deprimido se encuentra ahora?», señalando a continuación la posible respuesta en la cara A de un escalímetro de plástico. Esta escala muestra una sucesión de expresiones faciales dibujadas en una línea horizontal de diez centímetros, en cuyos extremos se encuentran las expresiones extremas del estado. En el izquierdo se ubica sentirse «sano o no deprimido» y en el derecho la mayor intensidad del estado de ánimo más deprimido. Dichas expresiones faciales se correlacionan con una escala numérica que va del cero al diez y que son visibles en la cara B del escalímetro. El valor cero coincide con la expresión facial extrema de «sano o no deprimido» y el diez coincide con la expresión facial extrema «estado de ánimo más deprimido».
+
+
+
+Figura 1. CET-DE42 estructura dimensional. 
+
+En la visita final se aplicaron los mismos cuestionarios y escalas que en la visita basal. Para valorar la mejoría del paciente en la clínica depresiva, se estudió la diferencia en puntuación entre la primera consulta y la última, teniendo en cuenta el cuestionario CET-DE (D TOTAL basal-D TOTAL final), siendo mayor la mejoría cuanto mayor era la diferencia. En el caso de la CGI (impresión clínica global), se valora también la mejoría de la enfermedad percibida por el profesional sanitario (CGI Mejoría).
+
+Los resultados se analizaron mediante estadística descriptiva e inferencial. Se consideró asociación estadísticamente significativa si p < 0.05. Programa estadístico SPSS® v.25. (SPSS inc. Chicago, IL, USA).
+
+El protocolo del estudio fue aprobado por el Comité de Ética de la Investigación del Hospital Central de la Defensa.
+
+RESULTADOS
+
+Se reclutaron un total de 60 pacientes, de los cuales 48 de ellos completaron el estudio (visita basal y visita final). Los 12 casos perdidos (20 %) fueron debidos a n=2 éxitus y n=10 abandono, siendo este grupo los clínicamente más graves en visita basal.
+
+De los 48 casos que completaron las dos visitas, el 71 % eran mujeres con una media de edad de 49 años, casadas o viviendo en pareja. El 65 % procedían de atención primaria y el 71 % del total acudían sin diagnóstico, ni tratamiento previo.
+
+En la visita basal, el 52 % de los pacientes eran diagnosticados de Trastorno Depresivo no especificado (311.0). Al 98 % se les pautó tratamiento farmacológico, de ellos un 71 % recibieron inhibidores selectivos de la recaptación de serotonina (ISRS), el 63 % benzodiacepinas de vida media corta, el 79 % estabilizadores del ánimo y el 52 % psicoterapia.
+
+VISITA BASAL
+
+Al estudiar las distintas variables clínicas en la visita basal (tabla 1), destacan los siguientes valores en las diferentes escalas estudiadas:
+
+
+CET-DE: la mediana de la D total basal fue de 107,55 puntos, considerando que la intensidad de la depresión es de moderada a grave. Las características dimensionales de mayor a menor puntuación fueron: DII>DI>DIV>DIII. Es decir, presentaban anergia y humor depresivo en primer plano, frente a la discomunicación y ritmopatía, que era la clínica menos intensa.
+
+SHAPS: el 67 % de la muestra presentaba anhedonia, con una mediana de 4 puntos.
+
+CGI gravedad: la impresión del psiquiatra es que solo el 48 % de los pacientes estaban graves.
+
+EVA Modificada: la mediana fue de 5,5 puntos, no reflejando la gravedad mostrada en el CET-DE.
+
+
+Tabla 1. Variables clínicas en la visita basal. Total de la muestra. Valores de medianas y rango (p75-p25), y porcentaje. 
+
+CET-DE	DI	28,05 (36,79-20,13)
+DII	29,50 (36,00-18,25)
+DIII	23.50 (31,00-16,00)
+DIV	23,50 (31,00-17,00)
+D Total	107,55 (134,12-79,03)
+SHAPS BASAL	4,00 (7,00-2,00)
+EVA modiﬁcada	5,5 (7,00-4,00)
+CGI GRAVEDAD	Leve/moderado (%)	25 (52 %)
+Grave (%)	23 (48 %)
+ANHEDONIA BASAL	No (%)	16 (33 %)
+Sí (%)	32 (67 %)
+DI: Dimensión I-Humor Depresivo. DII: Dimensión II-Anergia. DIII: Dimensión III-Discomunicación. DIV: Dimensión IV-Ritmopatía. D Total: suma de las 4.dimensiones.
+
+Merece mención que a mayor gravedad en CGI-gravedad (percepción del profesional sanitario), mayor fue el resultado el EVA-Modificada (percepción del paciente), siendo este resultado estadísticamente significativo. La mediana del EVA modificada entre los pacientes con CGI gravedad leve/moderado fue de 5,00 (6,00-4,00) versus 6,50 (8,50-4,00) en los pacientes con CGI grave.
+
+A continuación, se clasificaron los pacientes en dos grupos, pacientes depresivos con anhedonia y pacientes depresivos sin anhedonia, según la puntuación de la SHAPS fuese ≥2 (anhedónicos) o <2 (no anhedónicos), destacando que:
+
+
+Los pacientes con anhedonia presentaban mayor puntuación en todas las dimensiones de CET-DE, habiendo diferencias estadísticamente significativas frente al grupo de no anhedónico.
+
+La estructura dimensional del CET-DE era diferente en los «pacientes anhedónicos», (DII>DI>DIV>DIII) que en los «no anhedónicos» (DI>DIV>DII>DIII) (figura 2).
+
+No se encontraron diferencias estadísticamente significativas en las escalas CGI gravedad, ni EVA modificada entre «pacientes anhedónicos» y «no anhedónicos».
+
+El profesional sanitario percibe la enfermedad, a través de la CGI, como grave, con una frecuencia casi tres veces mayor en «pacientes anhedónicos» que en los «no anhedónicos», pero sin diferencias estadísticamente significativas.
+
+
+
+Figura 2. Estructura dimensional del CET-DE en visita basal, diferenciado por grupos con y sin anhedonia. 
+
+VISITA FINAL
+
+Trascurridos los seis meses de la visita basal, se evaluaron de nuevo las variables clínicas, observando que existe una mejoría de todos los síntomas tras la intervención clínica, tanto de las cuatro dimensiones del cuestionario para la depresión (CET-DE), como en la impresión subjetiva por parte del profesional sanitario (CGI) y del paciente (EVA-Modificada).
+
+La estructura clínica del CET-DE se mantuvo tanto en la visita basal como en la final (DII>DI>DIV>DIII) (figura 3). Los pacientes se mostraron fundamentalmente anérgicos (DII), con mayor humor depresivo (DI), seguido de alteración del ciclo circadiano (DIV) y estando, por último, afectada la comunicación (DIII).
+
+
+
+Figura 3. Estructura dimensional del CET-DE en visita basal y ﬁnal de la totalidad de la muestra. 
+
+El 20 % de los pacientes impresionaron de gravedad por parte del profesional sanitario, y a mayor impresión de gravedad de la enfermedad, mayor fue la percepción subjetiva de malestar por parte del paciente (EVA modificada).
+
+Respecto a la «CGI mejoría», los pacientes que no mejoraban tenían una EVA modificada más alta, con diferencias estadísticamente significativas.
+
+Al observar las puntuaciones del CET-DE en visita basal y final se observa una buena evolución y una mejoría de los pacientes (figura 3). Sin embargo, el progreso clínico es muy diferente si analizamos los resultados en función de la anhedonia.
+
+Para ver la influencia de la anhedonia residual en la evolución de los pacientes, es decir, cuando persiste tras la intervención terapéutica, comparamos las variables clínicas en cada uno de los grupos (no anhedónicos: aquellos pacientes que en visita final puntúan en la SHAPS <2, y anhedónicos, los que puntúan ≥2 en la SHAPS) (tabla 2).
+
+
+Tabla 2. Comparativa entre pacientes anhedónicos y no anhedónicos en visita ﬁnal*. 
+
+Anhedonia n=14	No Anhedonia n=34	p
+CET-DE*	DI	28,00 (38,44-10,56)	14,85 (27,39-5,94)	0,102
+DII	26,00 (36,5-18,75)	13,00 (26,5-5,75)	0,023
+DIII	23,00 (36,5-9,00)	11,00 (21,00-2,759)	0,021
+DIV	23,00 (36,5-11,0)	14,00 (24,25-3,75)	0,050
+D Total	100,54 (144,29-57,72)	53,53(106,65-19,94)	0,034
+EVA modiﬁcada*	4,50 (8,25-3,75)	3,50 (6,00-2,00)	0,038
+CGI Gravedad** (%)	No enfermo (n=19)	3 (21 %)	16 (47 %)	0.054
+Leve/moderado(n=19)	6 (43 %)	13 (38 %)	
+Grave (n=10)	5 (36 %)	5 (15 %)	
+CGI Mejoría**	Sí mejora (n=35)	8 (57 %)	27 (79 %)	0,118
+No mejora (n=13)	6 (43 %)	7 (21 %)	
+*Valores de p basado en la prueba de la U de Mann Whitney* y de la chi-cuadrado de Pearson**.
+
+Cuando no hubo anhedonia residual en la visita final, el conjunto de pacientes evolucionó muy favorablemente frente a aquellos que presentaron anhedonia residual. D Total: 53 en los pacientes sin anhedonia vs. D Total: 100 en los pacientes con anhedonia. El grupo de pacientes con anhedonia residual puntuó más elevado en todas las dimensiones (tabla 2). La estructura dimensional también era diferente entre ambos grupos: D1>D2>D3>D4 para los pacientes con «anhedonia residual» y D1>D4>D2>D3 para los «no anhedónicos».
+
+La percepción de mejoría por el profesional sanitario, según la «CGI Mejoría», fue casi tres veces más frecuente si el paciente no presentaba anhedonia en la visita final, aunque sin diferencias estadísticamente significativas.
+
+GRUPO NO ANHEDÓNICO EN VISITA FINAL
+
+Los pacientes que no presentaron anhedonia en visita final (n=34, 71%) conformaron un grupo con características muy específicas, no solo porque mejoraron en las escalas clínicas, como hemos visto con anterioridad, sino porque en comparación con los niveles basales, esta mejoría fue estadísticamente significativa (Tabla 3). Por tanto, existe una mejoría de todos los síntomas tras la intervención terapéutica, no solo de todas las dimensiones del cuestionario para la depresión (CET-DE), sino también de la impresión subjetiva por parte del paciente (EVA-Modificada) (tabla 3).
+
+
+Tabla 3. Comparativa basal-final en pacientes no anhedónicos en visita final*. 
+
+Visita basal	Visita final	p
+DI	27,72 (37,78-18,64)	14,85 (27,39-5,94)	0.001
+DII	27,5 (39,00-17,00)	13,00 (26,5-5,75)	0,002
+DIII	23,00 (31,00-15,00)	11,00 (21,00-2,759)	0,001
+DIV	23 (31,00-16,75)	14,00 (24,25-3,75)	0,001
+D Total	106,69 (135,35-69,00)	53,53 (106,65-19,94)	0,001
+SHAPS	4,00 (7,00-1,00)	1,00 (1,00-0,00)	0,001
+EVA modiﬁcada	6,00 (7,00-4,00)	3,50 (6,00-2,00)	0,001
+*Valores de la mediana percentiles p75-p25. Valor de p basado en test de Wilcoxon para muestras relacionadas.
+
+GRUPO ANHEDÓNICO RESIDUAL
+
+Al observar la evolución del grupo «anhedónico residual» (n=14, 29 %) se constata que las dimensiones CET-DE mejoraron muy discretamente, al igual que la SHAPS y la EVA modificada. No se observan diferencias estadísticamente significativas de ninguna de las variables en la visita final, respecto de la basal (tabla 4).
+
+
+Tabla 4. Comparativa basal-final en pacientes ANHEDÓNICOS en visita final*. 
+
+Visita basal	Visita final	p
+DI	29,04 (35,97-20,79)	28,05 (38,44-10,56)	0,410
+DII	34,00 (35,25-27,00)	26,00 (36,50-18,75)	0,119
+DIII	25,00 (31,00-18,50)	23,00 (36,50-9,00)	0,861
+DIV	29,00 (33,75-19,75)	23,00 (36,50-11,00)	0,421
+D Total	110,59 (133,42-92,05)	100,54 (144,29-57,72)	0,221
+SHAPS	5,00 (8,00-3,00)	6,00 (7,00-3,00)	0,900
+EVA modiﬁcada	4,5 (7,25-4,00)	4,50 (8,25-3,75)	0,821
+*Valores de mediana y percentiles p75-p25. Valor de p basado en la prueba de Wilcoxon para muestras relacionadas.
+
+La presencia de anhedonia residual hizo que el perfil clínico fuera diferente, modificando la estructura dimensional (figuras 4 y 5). Los anhedónicos residuales presentaron más sintomatología anérgica, tanto en el momento del diagnóstico, como en la visita final del estudio.
+
+
+
+Figura 4. Comparativa del cuestionario CET-DE en pacientes anhedónicos en la visita final y basal. 
+
+
+
+Figura 5. Comparativa del cuestionario CET-DE en pacientes no anhedónicos en la visita final y la basal. 
+
+Por último, se estudió si los pacientes con anhedonia residual también eran anhedónicos en el momento del diagnóstico. De los catorce individuos con anhedonia residual, solo uno no lo era al inicio. Por lo que fue 10,26 veces más frecuente tener «anhedonia residual» si el paciente era «anhedónico» en la visita basal (p=0.014).
+
+DISCUSIÓN
+
+Entre las fortalezas de este estudio merece mención que el 80 % de los pacientes reclutados inicialmente completaron las dos visitas. Además, esta muestra de estudio resultó ser muy homogénea en edad y características sociodemográficas, con más mujeres que hombres, dato que coincide con la prevalencia y características de la depresión en España15. También es importante observar que el 70 % de la muestra estudiada acudió sin un diagnóstico, ni tratamiento previo, por lo que es una muestra con enfermedad poco cronificada. Por último, se han utilizado instrumentos muy descriptivos en la evaluación clínica y psicopatológica del paciente, tanto para la clínica depresiva (CET-DE), como para la exploración de la anhedonia (SHAPS).
+
+En la visita basal, los pacientes presentaban una depresión moderada/grave con un 67 % de anhedonia. Sin embargo, al valorar la CGI (valoración subjetiva del profesional sobre la gravedad del paciente), solo el 48 % de los pacientes son considerados graves por el psiquiatra, lejos del 67 % de anhedonia determinado por la SAHPS. Por lo tanto, se concluye la importancia de que el profesional explore de manera más exhaustiva la anhedonia en la visita basal.
+
+Llama la atención que, siendo en muchas circunstancias la anhedonia un síntoma y requisito necesario en el diagnóstico de la depresión, su valoración se reduzca a una sola pregunta en los diversos cuestionarios de evaluación de la depresión. Es por lo que autores como Olivares16 o Demyttenaere17, afirman que ocupa muy poco espacio en todos los cuestionarios de evaluación de la depresión y que no miden de forma adecuada la anhedonia. Esto puede ser explicado porque todos los cuestionarios y/o escalas fueron diseñados con anterioridad a 1980, lo cual facilita que la anhedonia sea subestimada en la práctica clínica habitual.
+
+Si los cuestionarios anteriores no ayudan a identificar la anhedonia, los autores consideramos necesario el uso de instrumentos específicos como la SHAPS10 (considerado como el «gold standard» en el diagnóstico de la anhedonia) de forma rutinaria, opinión que compartimos con Rizvi4 y Martinotti18, evitando infradiagnosticarla.
+
+Pelizza y Ferrari19 detecta niveles más altos de clínica depresiva cuando la anhedonia está presente. Al igual que en nuestro estudio, la presencia de anhedonia estaba unida a puntuaciones más altas en el CET-DE en todas las dimensiones.
+
+En la figura 3, se observa que en la visita basal el esquema clínico de los pacientes con anhedonia (DII>DI>DIV>DIII) difiere de los pacientes sin anhedonia (DI>DII>DIV>DIII) y, debiera ser tenido en cuenta en la práctica clínica habitual, puesto que esto implica que:
+
+
+Los anhedónicos son más anérgicos o inhibidos, se comunican peor y aunque la clínica es intensa, los biorritmos están más conservados.
+
+Los no anhedónicos presentan clínica menos intensa en las cuatro dimensiones, estando más afectada la tristeza (DI-humor depresivo) y menos afectada la sociabilidad (DIII-comunicación).
+
+Por otro lado, merece destacar que en el cuestionario CET-DE la pregunta referida a la exploración de la existencia de anhedonia está ubicada en la dimensión I (humor depresivo). Sin embargo, en nuestros resultados los pacientes con anhedonia cuantifican más con la dimensión II (anergia).
+
+Zimmerman20 refiere que el médico generalista, al evaluar el malestar que experimenta el paciente, es capaz de cuantificar la gravedad del mismo, aunque a veces lo que es relevante para el paciente no coincide con lo que es importante para el médico. En salud mental, ocurre lo mismo. En nuestro estudio cuando el paciente se siente mal, el clínico también lo identifica como grave. Pero cuando identificamos la anhedonia a través de la SHAPS la situación cambia. En el momento del diagnóstico (visita basal) no existen diferencias estadísticamente significativas entre la CGI- gravedad y EVA Modificada entre pacientes «anhedónicos» y «no anhedónicos», lo que se traduce en que, en el caso de la EVA Modificada, el paciente «anhedónico» subjetivamente se siente igual de mal que el paciente «no anhedónico», aunque los anhedónicos puntúan más alto en el CET-DE. Los autores consideramos que esto es debido a que la existencia de otros síntomas depresivos está enmascarando la anhedonia. En el caso de la CGI, el profesional tiende a no clasificar dentro de los más graves a los pacientes anhedónicos que, recordamos, puntúan más alto en el CET-DE. El profesional sanitario da más peso a toda la semiología depresiva al ser estos síntomas más evidentes, en detrimento de la anhedonia.
+
+Martin Trostheim21, en un metaanálisis de 168 estudios en 2020, con 16.500 participantes, observa la importancia de la anhedonia en el grupo de sintomatología depresiva, evidenciando que cuando el cuadro depresivo cede, remite la anhedonia. En nuestro estudio, los pacientes que mejoran tras la intervención terapéutica no presentan anhedonia en la visita final. Sin embargo, los pacientes que presentan anhedonia residual son más anérgicos y con mayor grado de tristeza. Estos resultados concuerdan con autores como Cao22, De Fruyt23, Trostheim21, Di Giannantonio24 y Ducasse25, que afirman que los «anhedónicos residuales» no mejoran o son de difícil tratamiento. De la misma manera, en nuestro estudio, estos son los que persisten con clínica más depresiva, pudiendo ser, por tanto, la anhedonia un indicador de mal pronóstico.
+
+Cuando la anhedonia persiste en la visita final, los pacientes «anhedónicos» se sienten (EVA Modificada) claramente peor que los «no anhedónicos», al contrario de lo que ocurría en la visita basal, donde la florida clínica depresiva ocultaba la anhedonia.
+
+Mediante la impresión clínica global (CGI) en la visita final, no es posible identificar la gravedad de estos pacientes, a pesar de que los «anhedónicos» son más graves según el CET-DE y la CGI gravedad. Estamos ante el mismo fenómeno de mayor permisividad del clínico frente a este síntoma, fenómeno también descrito por Demyttenaere17.
+
+Por tanto, a esta población de «anhedónicos» que se siente peor (EVA Modificada) en la visita final, el profesional sanitario difícilmente la identifica como grave, lo que puede ser debido a dar más importancia a la mejoría de la clínica depresiva que al síntoma residual que quedaba oculto inicialmente. De nuevo, la anhedonia que afecta al paciente está siendo subestimada por el profesional. La mejoría que visualizamos no permite poner de relieve la importancia de la anhedonia, a no ser que se explore este síntoma de forma amplia y consciente. Esto reafirma la necesidad de que este síntoma cardinal diagnóstico, no pueda limitarse a una sola pregunta de «si usted siente placer», sino que se debería llegar a explorarlo de manera sistemática y más ampliamente a través de la escala «gold standard» para la anhedonia (SHAPS) desde el inicio del diagnóstico de la enfermedad depresiva.
+
+La asociación de la presencia de anhedonia y mala evolución de los síntomas, con falta de respuesta a tratamiento farmacológico y/o psicoterapia, hace cuestionarnos si el mal pronóstico de ese grupo de pacientes con depresión, se explica por la existencia de anhedonia residual, planteando que esta fuese la esencia de la distimia. En este estudio hemos observado que los anhedónicos en visita final, ya lo eran en visita basal. Se podría considerar que la anhedonia es algo más que solo un síntoma y plantear que pudiera tratarse de un síndrome independientemente de la existencia de trastorno depresivo, como proponen Bonanni26 y Ducasse25. Estos autores realizaron estudios en los que asocian la existencia de anhedonia residual con riesgo de suicidio sin enfermedad depresiva, considerándolo un factor de mal pronóstico.
+
+Respecto a las limitaciones del estudio, los autores consideramos que la principal limitación del trabajo es la propia patología de estudio, ya que esta confiere una dificultad a la hora del seguimiento de los pacientes más graves, que presentan menor adherencia al seguimiento clínico, condicionando no solo el tamaño muestral sino las características de la muestra, como también ya refieren Heerlein27.
+
+CONCLUSIONES
+
+La anhedonia se subestima en el inicio del diagnóstico de la depresión, enmascarado por la sintomatología depresiva florida y requiere instrumentos específicos (SHAPS) para su exploración.
+
+La anhedonia residual es un factor de mala evolución clínica, pudiendo considerarse como causante de mal pronóstico en los trastornos depresivos.
+
+BIBLIOGRAFÍA
+
+1. Asociación Americana de Psiquiatría. (2014). Manual Diagnóstico y Estadístico de Trastornos Mentales (DSM-5(r)). 5.ª ed. Arlington, Asociación Americana de Psiquiatría. [ Links ]
+
+2. Romer Thomsen, K., Whybrow, P. y Kringelbach, M. (2015). Reconceptualizing anhedonia: novel perspectives on balancing the pleasure networks in the human brain [en línea]. Front Behav Neurosci. 11 (9), pp. 49. Disponible en: https://www.frontiersin.org/articles/10.3389/fnbeh.2015.00049/full [ Links ]
+
+3. Der-Avakian A., Markou A. (2012). The neurobiology of anhedonia and other reward-related deficits [en línea]. Trends in Neurosciences. 35 (1), pp. 68-77. Disponible en: https://pubmed.ncbi.nlm.nih.gov/22177980/ [ Links ]
+
+4. Rizvi, S. J., Lambert, C. y Kennedy, S. (2018). Presentation and Neurobiology of Anhedonia in Mood Disorders: Commonalities and Distinctions. Current Psychiatry Reports. 20 (2), pp. 13. Disponible en: https://europepmc.org/article/med/29520717 [ Links ]
+
+5. Millón, C. et al. (2019). Role of the galanin N-terminal fragment (1-15) in anhedonia: Involvent of the dopaminergic mesolimbic system. Journal of Psychopharmacology. 33 (6), pp. 737-804. Disponible en: https://journals.sagepub.com/doi/10.1177/0269881119844188 [ Links ]
+
+6. Genders, S. G., Scheller, K. J. y Djouma, E. (2018). Neuropeptide modulation of addiction: Focus on galanin. Neurosci Biobehav Rev 110, pp. 133-148. DOI: 10.1016/j.neubiorev.2018.06.021 [ Links ]
+
+7. Gold, M. S., Blum, K. y Febo, M. (2018). Molecular role of dopamine in anhedonia linked to reward deficiency syndrome (RDS) and anti- reward systems. Front Biosci (Schol Ed) 10, pp. 309-325. DOI: 10.2741/s518 [ Links ]
+
+8. Russo, S. J. y Nestler, E. J. (2013). The brain reward circuitry in mood disorders. Nature Reviews Neuroscience. 14, pp. 609-625. DOI: https://doi.org/10.1038/nrn3381 [ Links ]
+
+9. Rizvi, S. J. et al. (2016). Assessing anhedonia in depression: Potencials and pills. Neurosci Biobehav Rev., pp. 21-35. DOI: 10.1016/j.neubiorev.2016.03.004 [ Links ]
+
+10. Snaith R. P. et al. (1995). Scale for the assessment of hedonic tone the Snaith-Hamilton Pleasure Scale. Br J Psychiatry. 167, pp. 99-103. DOI: 10.1192/bjp.167.1.99 [ Links ]
+
+11. Alonso-Fernández, F. (1986). CET-DE Cuestionario Estructural Tetradimensional para la Depresión. Manual. Madrid, TEA. Disponible en: https://web.teaediciones.com/Ejemplos/CET-DE%20_extracto%20web.pdf [ Links ]
+
+12. Guy W. (1976). Early Clinical Drug Evaluation (ECDEU). Assessment Manual. Rockville (eds.). National Institute Mental Health. [ Links ]
+
+13. Fresán A. y Berlanga C. (2013). Traducción al español y validación de la escala de Placer Snaith-Hamilton para anhedonia (Shaps). Actas Esp Psiquiatr. 41 (4), pp. 227-231. [ Links ]
+
+14. Vicente Herrero, M. T. et al. (2018). Valoración del dolor. Revisión comparativa de escalas y cuestionarios. Revista de la Sociedad Española del dolor 25 (4), pp. 228-236. Disponible en: https://scielo.isciii.es/scielo.php?pid=S1134-80462018000400228&script=sci_arttext [ Links ]
+
+15. Ministerio de Sanidad Consumo y Bienestar Social. (2017). Encuesta Nacional de Salud. España. Disponible en: https://www.sanidad.gob.es/estadEstudios/estadisticas/encuestaNacional/encuesta2017.htm [ Links ]
+
+16. Olivares, J. M. (2007). Psicopatología de los estados de ánimo: Anhedonia. Informaciones Psiquiátricas. Disponible en: http://www.informacionespsiquiatricas.com/anteriores/info_2007/03_189_06.htm [ Links ]
+
+17. Demyttenaere, K. et al. (2015). What is important in being cured from depression? Discordance between physicians and patients. J Affect Disorders. 174, pp. 390-406. DOI: 10.1016/j.jad.2014.12.004. [ Links ]
+
+18. Martinotti, G., Cloninger, C. R., y Janiri, L. (2008). Temperament and character inventory dimensions and anhedonia in detoxified substance-dependent subjects. The American Journal of Drug and Alcohol Abuse. 34 (2), pp. 177-183. DOI: 10.1080/00952990701877078 [ Links ]
+
+19. Pelizza, L. y Ferrari, A. (2009). Anhedonia in schizophrenia and major depression: state or trait? Ann Gen Psychiatry 8, pp. 22. DOI: 10.1186/1744-859X-8-22 [ Links ]
+
+20. Zimmermman, M. et al. (2006). How Should Remission From Depression Be Defined? The Depressed Patient's Perspective. American Journal of Psychiatry 163, pp. 148-150. DOI: 10.1176/appi.ajp.163.1.148 [ Links ]
+
+21. Trostheim, M. et al. (2020). Assessment of Anhedonia in Adults with and Without Mental Illness: A Systematic Review and Meta-analysis. JAMA Netw Open. 3 (8), pp. e2013233. DOI: 10.1001/jamanetworkopen.2020.13233 [ Links ]
+
+22. Cao, B. et al. (2019). Pharmacological interventions targeting anhedonia in patients with major depressive disorder: A systematic review. Prog Neuropsychopharmacol Biol Psychiatry. 92 (8), pp. 109-111. DOI: 10.1016/j.pnpbp.2019.01.002. [ Links ]
+
+23. De Fruyt, J., Sabbeb, B. y DemyLenaered, K. (2020). Anhedonia in Depressive Disorder: A Narrative Review. Psychopathology. 53, pp. 274-281. DOI: 10.1159/000508773 [ Links ]
+
+24. Di Giannantonio, M., et al. (2019). Agomelatine Effectiveness, Tolerability, and Impact on Anhedonia in Major Depression: A Pooled Analysis. Journal of Clinical Psychopharmacology. 39 (3), pp. 288-290. DOI: 10.1097/JCP.0000000000001038 [ Links ]
+
+25. Ducasse, D. et al. (2018). Anhedonia is associated with suicidal ideation independently of depression: A meta-analysis. Depress Anxiety. 35 (5), pp. 382-392. DOI: 10.1002/da.22709 [ Links ]
+
+26. Bonanni, L. et al. (2019). Can Anhedonia Be Considered a Suicide Risk Factor? A Review of the Literature. Medicina (Kaunas) 55 (8), pp. 458. DOI: 10.3390/medicina55080458. [ Links ]
+
+27. Heerlein, K. et al. (2021). Real-world evidence from a European cohort study of patients with treatment resistant depression: Treatment paLerns and clinical outcomes. Journal of Affective Disorders 290, pp. 334-404. DOI: 10.1016/j.jad.2021.03.073 [ Links ]
+
+Recibido: 22 de Julio de 2022; Aprobado: 26 de Octubre de 2022

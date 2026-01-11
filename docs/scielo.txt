@@ -1,0 +1,327 @@
+
+SciELO - Scientific Electronic Library Online
+ 
+vol.35 número3Clima de convivencia de clase: naturaleza, medida, efectos e implicaciones para la educación social. Un estudio transculturalExamen de los factores que contribuyen a la adicción al juego on line en adolescentes índice de autoresíndice de materiabúsqueda de artículos	Home Pagelista alfabética de revistas  
+
+Mi SciELO
+Servicios personalizados
+Servicios Personalizados
+Revista
+SciELO Analytics
+Articulo
+texto en Inglés
+Inglés (pdf) | Español (pdf)
+Articulo en XML
+Referencias del artículo
+ Como citar este artículo
+SciELO Analytics
+Traducción automática
+Enviar articulo por email
+Indicadores
+Links relacionados
+Compartir
+Otros
+Otros
+Permalink
+Anales de Psicología
+versión On-line ISSN 1695-2294versión impresa ISSN 0212-9728
+Anal. Psicol. vol.35 no.3 Murcia oct. 2019  Epub 30-Nov-2020
+https://dx.doi.org/10.6018/analesps.35.3.323151 
+Psicología Evolutiva y de la Educación
+
+Ajuste psicológico en cibervíctimas y ciberagresores en educación secundaria
+
+Elizabeth Cañas1  , Estefanía Estévez1  , Juan C. Marzo1  , José A. Piqueras1 
+1 Departamento de Psicología de la Salud, Facultad de Ciencias Sociosanitarias, Universidad Miguel Hernández, Elche (España)
+
+Resumen
+
+El auge de las agresiones cibernéticas entre estudiantes de secundaria y la importancia de ciertas variables de ajuste psicológico para la comprensión de este tipo de conducta violenta, tanto en agresores como en víctimas, nos han llevado a proponer como objetivo del presente trabajo analizar el perfil psicológico de ambos implicados en situaciones de ciberagresión. Las variables de ajuste analizadas fueron autoconcepto, estrés percibido, soledad, sintomatología depresiva, ansiedad social, satisfacción con la vida e inteligencia emocional. A partir de una muestra de 1318 adolescentes (47% chicos), de entre 11 y 18 años (M = 13.8, DT = 1.32), se establecieron tres grupos de contraste para cibervíctimas (víctimas severas, moderadas y no cibervíctimas) y tres grupos para ciberagresores (ciberagresores severos, moderados y no ciberagresores). El análisis de varianza mostró que los implicados presentan perfiles psicológicos menos ajustados. Las cibervíctimas severas mostraron mayor estrés percibido, soledad, depresión y ansiedad social, y menor autoconcepto, satisfacción con la vida e inteligencia emocional, en comparación con las no cibervíctimas. Los ciberagresores severos mostraron mayor estrés percibido, soledad y depresión, y menor autoconcepto y satisfacción con la vida, comparativamente con los no ciberagresores. Estos resultados permiten profundizar en la comprensión del ciberacoso entre estudiantes y mejorar los programas preventivos y de intervención en escuelas.
+
+Palabras clave: ciberagresión; nuevas tecnologías; adolescencia; víctima; agresor; ajuste psicológico
+
+Introducción
+
+La comunicación a través de las nuevas tecnologías es un hecho que en los últimos años está adquiriendo mayor protagonismo en edades cada vez más tempranas (Fernández, Peñalva y Irazabal, 2015). Este hecho puede resultar un problema si la comunicación cibernética se utiliza como medio para agredir (Durán y Martínez, 2015). Este tipo de conducta se describe como un acto hostil, intencional y que acontece de manera repetida en el tiempo, mediante el uso, por un individuo o grupo, de dispositivos electrónicos sobre una víctima que no puede defenderse por sí misma (Ortega-Barón, Buelga y Cava, 2016; Smith et al., 2008). A pesar de la similitud con el acoso tradicional, características como el anonimato de los agresores o la mayor audiencia para la humillación, le otorgan identidad propia y, de hecho, parece conllevar consecuencias incluso más negativas y devastadoras para las víctimas que las agresiones directas (García, 2013). Además, la aparición de nuevos dispositivos electrónicos ha incrementado la prevalencia del ciberacoso (Ortega-Barón et al., 2016), manteniendo el acoso escolar tradicional y cibernético estrechamente relacionados entre sí, y convirtiendo la conducta violenta directa como la variable predictora con más peso explicativo de ciberagresión (Ortega-Baron, Buelga, Cava y Torralba, 2017).
+
+A nivel nacional, los resultados de Ortega-Barón et al. (2016) en una muestra de 1068 adolescentes de la Comunidad Valenciana mostraron una tasa de cibervictimización del 27,4%, siendo el 5,5% considerado de forma severa. De los pocos estudios que incluyeron comparaciones directas entre jóvenes de 42 países, el estudio sobre el comportamiento de la salud en niños en edad escolar (HBSC), indicó que el porcentaje promedio de niños de 11 años que habían experimentado acoso cibernético a través de mensajes, al menos una vez en el último año, fue del 10% comparado con 11% de 13 años y 11% de 15 años (Inchley et al., 2016). Desde esta perspectiva, es evidente que existe un aumento de ciberacoso entre los niños y adolescentes de todos los países desarrollados, sin embargo, son escasos los trabajos que han analizado conjuntamente las relaciones entre el acoso cibernético y las variables de ajuste psicológico (Cava, Buelga, Musitu y Murgui, 2010). Además, la mayor parte de investigaciones se han centrado en la cibervíctima.
+
+Así, por ejemplo, en ciertos estudios se ha observado que las cibervíctimas puntúan de manera más negativa en autoconcepto general que aquellos adolescentes que no sufren ciberagresión (Valdés, Alcántar, Reyes, Torres y Urías, 2014). En particular, y desde una perspectiva multidimensional del autonconcepto, estudios recientes con cibervíctimas sugieren que el autoconcepto familiar podría estar reducido en estos adolescentes, pues un deteriorado clima familiar disminuye los recursos sociales e individuales de los hijos, promoviendo que éstos sean más vulnerables a ser intimidados por sus compañeros (Lereya, Samara y Wolke, 2013) o a dedicar más tiempo a conectarse en red, evitando de esta manera las interacciones familiares negativas (Gomes-Franco y Sendín, 2014). Otros estudios, por el contrario, aseguran que la cohesión y apoyo familiar facilitan el ajuste social del adolescente y las relaciones positivas con sus iguales, constituyendo así un factor protector frente al ciberacoso (Navarro, Ruiz-Oliva, Larrañaga y Yubero, 2015), así como frente a la hostilidad, la conducta antisocial y violencia entre iguales (Buelga, Iranzo, Cava y Torralba, 2015).
+
+Respecto del autoconcepto global negativo, Ildırım, Çalıcı y Erdoğan (2017) hallaron correlaciones positivas entre esta variable y el ciberacoso y cibervictimización. En otros trabajos con medidas de autoconcepto multidimensional se ha constatado una relación negativa entre la violencia en el contexto escolar y las dimensiones de autoconcepto académico y familiar en particular (Estévez, Martínez y Musitu, 2006). Sin embargo, no existen referentes de estudios previos que hayan examinado el autoconcepto de los ciberagresores desde una perspectiva multidimensional.
+
+El estrés percibido es también considerado indicador de ajuste psicológico (Cénat et al., 2014) siendo éste elevado en las cibervíctimas (Bartrina, 2014). También en algunas investigaciones se han hallado altos niveles de estrés en los ciberagresores, lo que se ha vinculado como posible factor de riesgo de los comportamientos violentos (Alonso y Romero, 2016). Igualmente, el sentimiento de soledad suele ser frecuente en las cibervíctimas (Şahin, 2012), así como la percepción de bajo apoyo social (Romera, Cano, García-Fernández y Ortega-Ruiz, 2016). Estos resultados son convergentes con los obtenidos respecto del acoso tradicional, en el sentido de que son los acosadores los más rechazados y las víctimas las más excluidas y con relaciones escolares más pobres (Cerezo, Sánchez, Ruiz y Arense, 2015). Las investigaciones referentes a ciberagresores no son concluyentes, ya que mientras algunos estudios no encuentran relación entre la soledad y la ciberagresión (Sahín, 2012), otros indican que los sentimientos de soledad predicen una parte importante de la agresión cibernética (Brewer y Kerslake, 2015).
+
+Además de la soledad, en diversos estudios se han encontrado puntuaciones elevadas en sintomatología depresiva tanto en cibervíctimas (Modecki, Barber y Vernon, 2013) como en ciberagresores (Schenk, Fremouw y Keelan, 2013), pudiendo resultar esta sintomatología un factor de riesgo ante el desarrollo de los comportamientos violentos en los agresores (Vlachout, Andreou, Botsoglou y Didaskalou, 2011).
+
+Paralelamente, el desarrollo de estados de ansiedad parece característico de las cibervíctimas (Fahy et al, 2016;), sobre todo referentes a situaciones sociales (Navarro, Yubero, Larrañaga y Martínez, 2012). Sin embargo, en agresores se han hallado bajos niveles de ansiedad social (Campbell, Slee, Spears, Butler y Kift, 2013). Esta situación generalizada de desamparo y desajuste emocional descrita anteriormente podría ser la base de la explicación de los bajos niveles de satisfacción vital que advierten tanto las cibervíctimas (Ortega-Barón et al., 2016) como los ciberagresores (Navarro et al., 2015). También se ha observado una relación entre la inteligencia emocional (IE en adelante) y los problemas de violencia entre iguales, de manera que tanto las cibervíctimas (Nabuzoka, Rønningy y Handegård, 2009) como los agresores de acoso escolar y cibernético presentan mayores dificultades para regular las emociones (Baroncelli y Ciucci, 2014). En esta línea, estudios previos (Fernández-González, Calvete, Orue y Echezarraga, 2018; Garaigordobil, 2017) concluyen que aquellos adolescentes con competencias limitadas de IE muestran menos recursos para resolver conflictos interpersonales y recurren más a la agresión como medio de resolución de problemas, en detrimento de estrategias más adaptativas.
+
+Este hecho resalta la importancia que la regulación emocional tiene para el ajuste psicológico y para la calidad de las relaciones interpersonales (Samper-García, Mestre-Escrivá, Malonda y Mesurado, 2015). Además, el desarrollo de las habilidades emocionales propias de la IE (prestar atención a las emociones, comprenderlas y saber manejarlas), puede reducir el riesgo en las cibervíctimas adolescentes de desarrollar, eventualmente, problemas psicológicos como consecuencia del ciberacoso (Extremera, Quintana-Orts, Mérida-López, y Rey, 2018). No encontramos, sin embargo, estudios que examinen la contribución independiente de las distintas dimensiones del constructo de IE en la mejor comprensión de las situaciones de acoso online entre iguales.
+
+En definitiva, las agresiones entre iguales a través de nuevas tecnologías suponen un problema reciente y en aumento, y trabajos precedentes, muchos de los cuales están fundamentados en el acoso escolar tradicional, han constatado el relevante papel que juegan variables de tipo psicológico en su comprensión, desarrollo y mantenimiento. Por ello, se presenta como necesario seguir ahondando en el perfil de los implicados, cibervíctimas y ciberagresores en este caso, siendo así el objetivo general de este estudio elaborar un perfil psicológico de cibervíctimas y ciberagresores en función del sexo y de las categorías de no ciberagresores/ciber victi mizados, moderados y severos en las siguientes variables: autoconcepto -académico, familiar, físico y social-, estrés percibido, soledad, sintomatología depresiva, ansiedad social -miedo a la evaluación negativa, evitación y ansiedad social en nuevas situaciones y evitación y ansiedad social en general-, satisfacción con la vida e IE -atención emocional, claridad emocional y regulación emocional-.
+
+Método
+
+Participantes
+
+Los participantes en el estudio fueron 1.318 adolescentes (47% chicos y 53% chicas), de edades comprendidas entre los 11 y 18 años (M=13.8, DT=1.32), y escolarizados en 4 centros de Educación Secundaria Obligatoria de las comunidades andaluza, aragonesa y valenciana. La distribución del alumnado por nivel académico fue equitativo: el 24.7% estaba escolarizado en 1º de la ESO, el 27.3% en 2º, el 23.7% en 3º, y el 24.3% en el 4º curso de secundaria. Para la selección de muestra se realizó un muestreo probabilístico siendo las unidades primarias de muestreo las áreas geográficas urbanas de las provincias de Alicante, Valencia, Sevilla y Teruel, y las unidades secundarias los institutos públicos en cada área. No se utilizaron los cursos o aulas como unidades terciarias, pues participaron todos los alumnos de los cuatro cursos de la ESO en todos los centros. El nivel socioeconómico de las áreas y centros fue medio. Aproximadamente un cuarto de los padres y madres de los estudiantes participantes tiene estudios de primaria, otro cuarto de secundaria, otro cuarto de bachillerato y otro cuarto estudios universitarios. La mayoría de padres y madres tiene trabajo remunerado fuera del hogar: el 86.7% de los padres y el 69.5% de las madres.
+
+Instrumentos
+
+Escala de Agresiones a través del teléfono móvil y de Internet (CYB-AG, Buelga y Pons, 2012). Esta escala mide el número de ciberagresiones cometidas durante el último año a través del teléfono móvil mediante 24ítems que evalúan comportamientos que implican agresiones de: Hostigamiento (p.ej. “He insultado o puesto en ridículo a alguien en redes sociales o en grupos como el WhatsApp para que se fastidie o se moleste de verdad”); Persecución (p.ej. “He amenazado a alguien con llamadas o mensajes de voz a su móvil”), Denigración (p.ej.“He contado mentiras o rumores falsos sobre alguien en redes sociales o en grupos de clase como el whatsapp”), Violación de la intimidad (p.ej. “He robado fotos, videos, conversaciones privadas de alguien, y las he subido o enviado a otras personas”), Exclusión social (p.ej.“He ignorado y no he contestado a mensajes o cosas que alguien ha puesto en grupos o en redes sociales para molestarle y que se sienta mal”), Suplantación de la identidad (p.ej.“He creado en Internet un perfil falso de alguien con sus datos personales haciéndome pasar por esa persona para decir o hacer cosas malas”). La escala de respuesta oscila desde 1 (nunca) a 5 (muchas veces). La escala también cuenta con 3 ítems acerca del tiempo y frecuencia de las agresiones y hacia quiénes van dirigidas. El Alpha de Cronbach obtenido en la presente muestra fue de.94.
+
+Escala de Victimización a través del teléfono móvil y de Internet (CYBVIC-R; Buelga, Cava y Musitu, 2010).Esta escala consta de 24 ítems que miden el acoso sufrido por el teléfono móvil y por Internet durante el último año: Hostigamiento (p.ej.“Me han insultado o puesto en ridículo a alguien en redes sociales o en grupos como el WhatsApp para hacerme daño de verdad”), Persecución (p.ej.“Me han obligado con amenazas a hacer cosas que no quería en Internet o por el móvil”), Denigración (p.ej.“Han contado secretos míos o revelado cosas personales mías sin mi permiso en redes sociales o en grupos”), Violación de la intimidad (p.ej.“Me han grabado o me han hecho fotos humillantes sin mi permiso que han distribuido en redes sociales”), Exclusión social (p.ej.“Me han ignorado y no han contestado a mensajes o cosas que yo he puesto en grupos o en redes sociales para hacerme sentir mal”), Usurpación de la identidad (p.ej.“Han entrado en mi perfil o en mis cuentas sin que yo pueda hacer nada”). La escala de respuesta oscila de 1 (nunca) a 5 (muchas veces). La escala también cuenta con 3 ítems acerca del tiempo y frecuencia de las agresiones y el autor de las mismas. El Alpha de Cronbach obtenido en el presente trabajo fue de.94.
+
+Escala de Autoconcepto Forma-5 (AF5; García y Musitu, 1999). Esta escala mide, a través de 24ítems, cuatro dimensiones del autoconcepto (6 ítems por dimensión): Académica (p.ej. “Trabajo mucho en clase”), Social (p.ej. “Me cuesta hablar con desconocidos/as”), Familiar (p.ej. “Soy muy feliz en casa”), Física (p.ej. “Me cuido físicamente”). La escala de respuesta oscila entre 1 (totalmente en desacuerdo) y 99 (totalmente de acuerdo) puntos. El Alpha de Cronbach del presente estudio fue de .89 para la escala global (académico .92; social .76; familiar .87 y físico .79).
+
+Escala de Soledad (UCLA; Russell, 1996; adaptación española de Expósito y Moya, 1993). Esta escala consta de 20 ítems que aportan un índice general de percepción de soledad. El rango de respuesta oscila de 1 (nunca) a 4 (siempre). La escala presenta una fiabilidad Alpha de Cronbach en este estudio de .92.
+
+Escala de Depresión del Centro de Estudios Epidemiológicos de Estados Unidos (CES-D; Radloff, 1977; adaptación de Herrero y Meneses, 2006). Este instrumento se compone de 22 ítems que evalúan de 1 (nunca o muy rara vez) a 4 (siempre o la mayoría de veces) la presencia de sintomatología depresiva en el último mes. Proporciona un índice general de ánimo depresivo, evaluando la sintomatología que habitualmente va asociada a ella (p.ej., “Durante el último mes, me sentí triste”). El Alpha de Cronbach en este estudio fue de .84.
+
+Escala de Estrés Percibido (PSS; Cohen, Kamarck y Mermelstein, 1983; adaptación española de Herrero y Meneses, 2006). A través de 14 ítems evalúa el grado en que la persona ha experimentado ciertas situaciones como estresantes en el último mes (p.ej. “en el último mes, he sentido que las dificultades se amontonaban sin poder solucionarlas”). La escala de respuesta es tipo Likert cuyo rango oscila entre 1 (nunca) y 4 (siempre) puntos. El Alpha de Cronbach de este trabajo fue de.66.
+
+Escala de Satisfacción con la Vida (Diener, Emmons, Larsen y Griffin, 1985; adaptación española de Atienza, Pons, Balaguer y García-Merita, 2000). Este instrumento se compone de 5 ítems que proporcionan un índice general de bienestar subjetivo percibido (p.ej. “no estoy contento con mi vida”). Los ítems se valoran mediante una escala tipo Likert de 4 puntos (de muy en desacuerdo a muy de acuerdo). En este estudio el Alpha de Cronbach fue de.79.
+
+Escala de Ansiedad Social para Adolescentes (SAS-A; La Greca y López, 1998; adaptación de Olivares et al., 2005). A través de 22 ítems con una escala tipo Likert de 5 puntos (de nunca a siempre) evalúa las respuestas de ansiedad social de los adolescentes en el contexto de sus relaciones interpersonales, a través de 3 dimensiones: miedo a la evaluación negativa (p.ej. “Me preocupa ser evaluado/a por los demás”, evitación y ansiedad social en nuevas situaciones (p.ej. “Me pongo nervioso/a cuando me presentan a personas desconocidas”), y evitación y ansiedad social en general (p.ej. “Me da vergüenza incluso cuando estoy con gente que conozco bien”). El Alpha de Cronbach global del presente estudio fue de .92 y de .87, .81 y .78 para las tres dimensiones respectivamente.
+
+Escala de Inteligencia Emocional Percibida (TMMS; Salovey, Mayer, Goldman, Turvey y Palfai, 1995; adaptación de Fernández-Berrocal, Extremera y Ramos, (2004) y Martín-Albo, Núñez y León (2010). Esta escala consta de 22 ítems con 5 opciones de respuesta tipo Likert (de muy de acuerdo a muy en desacuerdo), que aportan una medida de inteligencia emocional fundamentada en 3 dimensiones: atención emocional (p.ej., “Pienso en mi estado de ánimo constantemente”), claridad emocional (p.ej., “Frecuentemente me equivoco con mis sentimientos”) y regulación emocional (p.ej., “Aunque a veces me siento triste suelo tener una visión optimista”). El Alpha de Cronbach global de este estudio fue de.91, y para las dimensiones fue de.91, .86 y .87 respectivamente.
+
+Procedimiento
+
+Los datos de esta investigación se recogieron como parte de un estudio más amplio sobre ajuste psicológico en la adolescencia, previa autorización de las autoridades educativas pertinentes, así como del Comité de Ética de la universidad desde donde se dirige el proyecto. Para la recogida de datos, en primer lugar, se estableció un contacto telefónico inicial con los directores de los centros educativos, seguido por una reunión con todo el personal docente en la que se informó sobre los objetivos del estudio y el procedimiento a seguir para la recogida de datos. Una vez acordada la participación, se envió una carta explicativa a los padres en la que se solicitaba su consentimiento. Una vez obtenido el consentimiento paterno (alrededor del 1% de los padres se negó a que su hijo/a participara), la administración de los instrumentos se llevó a cabo por un grupo de investigadores previamente entrenados, en horarios de tutoría en las aulas habituales de los estudiantes, quienes participaron de manera voluntaria (ninguno de los adolescentes se negó a participar) y anónima, garantizando su privacidad y reduciendo los posibles efectos de deseabilidad social. Las encuestas cuyos patrones de respuesta resultaron sospechosos no fueron codificadas en la base de datos (estas encuestas representaron el 1% del total de la muestra completa).
+
+Análisis estadístico
+
+Los datos se analizaron con el paquete estadístico SPSS (versión 20). La imputación de los datos perdidos se hizo a través de la regresión múltiple por el procedimiento de máxima verosimilitud. Para el presente estudio, en primer lugar, se clasificó a los sujetos en tres grupos de contraste a partir de las puntuaciones en las escalas de agresión y de victimización a través del teléfono móvil y de Internet (escala de 5 puntos tipo Likert). De acuerdo con el criterio de Smith et al. (2008) los sujetos que puntuaron 1 (“nunca”) en ambas escalas, fueron asignados a los grupos de “no ciberagresor” y “no cibervíctima” respectivamente; aquellos sujetos que puntuaron entre 2 (“1 o 2 veces al mes”) y 3 (“3-5 veces al mes”) en las escalas, se asignaron a los grupos de “ciberagresores moderados” y “cibervíctimas moderadas” (menos de una agresión a la semana); y por último los participantes que puntuaron entre 4 (“6-10 veces al mes”) y 5 (“más de 10 veces al mes”) se asignaron a los grupos de “ciberagresores severos” y “cibervíctimas severas”(más de una agresión a la semana).
+
+Establecidos los grupos de contraste, se realizó un análisis de correlación de Pearson para determinar las relaciones entre la cibervictimización y la ciberagresión y el resto de variables y dimensiones objeto de estudio. Posteriormente se realizó un análisis de la varianza ANOVA para comprobar si existían diferencias significativas entre los tres grupos de contraste de cibervíctimas y de ciberagresores en las variables examinadas. Se calculó también el tamaño del efecto considerándolo pequeño cuando η²=.01−.06, moderado siendo η² entre .06−.14) y grande con η²>.14 (Faul, Erdfelder y Buchner y Lang, 2009).
+
+Resultados
+
+Frecuencia de cibervictimización y ciberagresión
+
+Respecto de la cibervictimización, los datos obtenidos muestran que el 58.61% (n=650) de los participantes de este estudio, nunca ha sido victimizado por Internet o por el móvil. El 41.39% (n=459) de los sujetos indicó haber sufrido agresiones en alguna ocasión en el último año. Del total de estas víctimas el 37.24% (n=413) se clasificó en el grupo de cibervíctimas moderadas y el 4.15% (n=46) en el grupo de cibervíctimas severas.
+
+En el caso de la ciberagresión, 73.66% (n=797) de los adolescentes fue clasificado como no agresores. Del restante 26.34% (n=285), el 24.59% (n=266) pertenecieron al grupo de ciberagresores moderados y el 1.76% (n=19) al grupo de ciberagresores severos.
+
+Relaciones entre cibervictimización y ciberagresión con variables de ajuste psicológico
+
+El análisis de correlación de Pearson (tabla 1) muestra que la cibervictimización y ciberagresión correlacionan positiva y significativamente entre ellas. En el caso de la cibervictimización se observan correlaciones positivas y estadísticamente significativas con una p<.01con todas las variables de soledad, depresión y ansiedad social, y con una p<.05 con la dimensión Atención emocional de la variable IE, y negativamente con todas las variables de autoconcepto, satisfacción vital y las dimensiones de atención y comprensión emocional de la variable IE. La ciberagresión correlaciona positivamente con una p<.01 con el estrés percibido, la depresión y con todas las dimensiones de la variable ansiedad social, y con p<.05 con la variable soledad. La ciberagresión correlaciona negativamente con p<.01 con las dimensiones del autoconcepto académico y familiar, así como con la satisfacción vital, y con una p<.05 con las dimensiones de comprensión y regulación emocional de la variable IE.
+
+También se observa en la tabla 1 que no existen diferencias estadísticamente significativas entre sexos en las variables de cibervictimización y ciberagresión. Por el contrario, sí se aprecian diferencias estadísticamente significativas entre chicos y chicas en las dimensiones de autoconcepto académico (t=-5.17, p<.01); familiar(t=2.10, p<.05), y físico (t=7.10, p<.01), soledad (t=-3.66, p<.01), sintomatología depresiva (t=-4.35, p<.01), estrés percibido (t=-2.77, p<.01), miedo a la evaluación negativa (t=-2.47, p<.05), evitación y ansiedad social en nuevas situaciones (t=-2.24, p<.05), satisfacción vital (t=2.65, p<.01) y atención emocional (t=-6.31, p<.01).
+
+Diferencias entre los grupos de cibervíctimas en las variables de ajuste psicológico
+
+El análisis de varianza en las cibervíctimas (Tabla 2) muestra que las no cibervíctimas tienen un autoconcepto significativamente más alto que los grupos de cibervíctimas en el autoconcepto familiar (F (2,1109)=5.70, p<.05), físico (F (2,1109)=13.74, p<.05) y social (F (2,1109)=7.96, p<.05), siendo la magnitud de estas diferencias pequeña (η²=.01, η²=.03; η²=.02 respectivamente). Respecto al estrés percibido (F (2,1109)=32.84 p<.05), la soledad (F (2,1109)=40.09, p<.05) y la sintomatología depresiva (F (2,1109)=60.13, p<.05), las cibervíctimas severas puntúan significativamente más alto que las moderadas y éstas a su vez, más alto que las no cibervíctimas. La magnitud de las diferencias es pequeña en el caso del estrés (η²=.00) y moderada en el resto de los casos (η²=.06 y η²=.10 respectivamente). En cuanto a la ansiedad social, el miedo a la evaluación negativa (F(2,1109)=53.31, p<.05) y la evitación y ansiedad social general (F (2,1109)=18.61, p<.05) es significativamente mayor en las cibervíctimas severas que en las moderadas, y éstas puntúan significativamente más alto que las no cibervíctimas, siendo la magnitud de estas diferencias moderada η²=.09 y pequeña η²=.03 respectivamente. Sin embargo, en evitación y ansiedad social en nuevas situaciones (F (2,1109)=10.76, p<.05) los grupos de cibervíctimas puntúan significativamente más alto que las no cibervíctimas, siendo la magnitud de estas diferencias pequeña (η²=.02). Los resultados en satisfacción vital (F (2, 1109)=45.28, p<.05) muestran que las no cibervíctimas tienen puntuaciones más altas que las cibervíctimas moderadas, y éstas a su vez que las cibervíctimas severas, siendo la magnitud de estas diferencias moderada (η²=.08). Respecto a la IE, las cibervíctimas moderadas prestan mayor atención a sus emociones (F (2,1109)=4.27, p<.05) que el grupo de no cibervíctimas. Sin embargo, son las no cibervíctimas las que tienen mayor claridad emocional (F (2,1109)=4.81, p<.05) y regulan mejor sus emociones (F (2,1109)=6.63, p<.05) que las cibervíctimas severas, y en el último caso también que las cibervíctimas moderadas, siendo la magnitud de las diferencias pequeña (η²=.01) en todas las dimensiones.
+
+
+Tabla 1.  Correlaciones de Pearson, medias y desviaciones típicas por sexos y resultados de la prueba T de Student. 
+
+
+Nota:CV=Cibervictimización; CA=Ciberagresión; AA=Autoconcepto académico; AF=Autoconcepto familiar; AFI=Autoconcepto físico; AS=Autoconcepto social; S=Soledad; SD=Sintomatología Depresiva; EP=Estrés Percibido; MEN=Miedo a la evaluación negativa; EAN=Evitación y ansiedad social en nuevas situaciones; EAG=Evitación y ansiedad social experimentada en general; SV=Satisfacción con la Vida; AEP=Atención emocional; CEP=Claridad emocional; REP=Regulación emocional; M=Medias chicos/chicas; DT=Desviación típica; T=Prueba T de Student.
+
+*p < .05.
+
+**p < .01.
+
+
+Tabla 2.  Variables de ajuste psicológico en cibervíctimas. 
+
+
+Nota:M=Media; DT=Desviación Típica; F=F de Fisher-Snedecor; Prueba de Bonferroni=a>b>c Tamaño del efecto η²: †=Efecto pequeño; ††=Efecto mediano; †††=Efecto grande; n.s.: no significativo
+
+Diferencias entre los grupos de ciberagresores en las variables de ajuste psicológico
+
+El análisis de la varianza del grupo de ciberagresores (Tabla 3) muestra que los no ciberagresores tienen un autoconcepto académico (F (2,1082)=6.40, p<.05) y familiar (F (2,1082)=3.91, p<.05) mayor que los ciberagresores severos, siendo la magnitud del efecto pequeña en ambos casos (η²=.01), y un autoconcepto físico (F (2,1082)=4.24, p<.05)mayor que los ciberagresores moderados (cuya magnitud del efecto es pequeña, η²=.01). Respecto al estrés percibido (F (2,1082)=9.68 p<.05) y la soledad (F (2,1082)=6.67, p<.05), los dos grupos de ciberagresores puntúan significativamente más alto que los no ciberagresores, siendo el tamaño del efecto pequeño (η²=.01 en ambos casos). En cuanto a la depresión (F (2,1082)=20.61, p<.05), los ciberagresores severos presentan significativamente más sintomatología depresiva que los ciberagresores moderados y éstos a su vez que los no ciberagresores, siendo la magnitud de las diferencias pequeña (η²=.04). Son éstos últimos además los que muestran significativamente menos miedo a la evaluación negativa (F (2,1082)=14.45, p<.05) que los ciberagresores moderados (magnitud de las diferencias pequeña η²=.03). En satisfacción vital, los no ciberagresores puntúan significativamente más alto que los ciberagresores moderados y éstos a su vez que los ciberagresores severos (F (2,1082)=17.75, p<.05), siendo la magnitud de las diferencias pequeña (η²=.03).Por último, a diferencia de las cibervíctimas, las puntuaciones en la variable IE en los ciberagresores no resultaron significativas.
+
+En resumen, los resultados indican que el perfil de las cibervíctimas severas muestra puntuaciones más altas en estrés percibido, soledad, depresión y ansiedad social, y más bajas en autoconcepto, satisfacción con la vida e IE. Asimismo, el perfil de ciberagresores severos destaca por tener puntuaciones altas en estrés percibido, soledad y depresión, y bajas en autoconcepto y satisfacción con la vida. Cabe destacar que las diferencias de mayor magnitud en el caso de las cibervíctimas se dieron en las variables soledad, sintomatología depresiva, miedo a la evaluación negativa y satisfacción con la vida. En el caso del grupo de ciberagresores el tamaño del efecto en todas las variables fue pequeño.
+
+
+Tabla 3.  Variables de ajuste psicológico en ciberagresores. 
+
+
+Nota:M=Media; DT=Desviación Típica; F=F de Fisher-Snedecor; Prueba de Bonferroni=a>b>cTamaño del efecto η²: †=Efecto pequeño; ††=Efecto mediano; †††=Efecto grande
+
+ns:no significativo
+
+Discusión
+
+El objetivo principal de este trabajo ha sido elaborar un perfil psicológico de cibervíctimas y ciberagresores en función del sexo y de las categorías de no ciberagresores/cibervictimizados, moderados y severos en las variables de ajuste analizadas: autoconcepto, estrés percibido, soledad, sintomatología depresiva, ansiedad social, satisfacción con la vida e IE. Los resultados obtenidos muestran, en consonancia con otros estudios (Garaigordobil, 2011), que existen diferencias en el perfil psicológico de los implicados en situaciones de ciberacoso.
+
+En efecto, las cibervíctimas de este estudio presentan un autoconcepto familiar, físico y social más deteriorado que las no cibervíctimas. Estos resultados referentes al autoconcepto familiar son similares a los hallados en investigaciones previas, en las que se confirmaba la importancia de la calidad del clima familiar como factor protector de la conducta violenta, en el contexto escolar (Jiménez, Estévez y Murgui, 2014) y cibernético (Ortega-Barón et al., 2016), ya que promueve un mayor sentimiento de seguridad y de conexión emocional en familias con hijos adolescentes. Las cibervíctimas del presente estudio mostraron un nivel de autoconcepto físico significativamente más bajo que los estudiantes que no estaban involucrados en situaciones de ciberacoso, lo que evidencia que el ciberacoso es un potente factor de disminución de la imagen y la confianza general en uno mismo (Delgado, Gonzálvez, Vicent, Gomis-Selva y Inglés, 2015). Por otro lado, el autoconcepto social más bajo en las cibervíctimas puede justificarse por el rechazo que perciben de sus iguales, potenciando sentimientos de incompetencia respecto a las relaciones sociales (Álvarez, 2015).
+
+En la dimensión de autoconcepto académico, los agresores severos obtuvieron las puntuaciones más bajas, un dato coherente con lo hallado en otros estudios que afirman que los adolescentes agresores suelen evitar comprometerse con las actividades escolares (Avilés, 2010). También se observó en el presente estudio un deterioro del autoconcepto familiar y físico en agresores severos. Coincidiendo con investigaciones previas, el comportamiento de los agresores se ha relacionado con una dimensión familiar carente de afecto cálido y seguro (Navarro, 2014) y caracterizado por el rechazo y la crítica (León-del-Barco, Felipe-Castaño, Polo-del-Río y Fajardo-Bullón, 2015) por parte de los padres. Sin embargo, se encuentran discrepancias en la dimensión física. Mientras que algunos autores señalan que los comportamientos violentos refuerzan el sentimiento de poder y fortaleza, así como el autoconcepto físico positivo de los adolescentes agresores (Marsh, Parada, Craven y Finger, 2004), otros advierten que los ciberagresores alcanzan significativamente menores puntuaciones medias en autoconcepto físico, lo que evidencia, como en el caso de las cibervíctimas, el deterioro que el ciberacoso provoca para la autopercepción de los adolescentes involucrados (Delgado et al., 2015).
+
+De manera general, las puntuaciones más bajas en las dimensiones de autoconcepto para cibervíctimas y ciberagresores coinciden con el estudio de Ildırım et al. (2017) en el que hallaron correlaciones positivas entre el autoconcepto global negativo y el ciberacoso y cibervictimización.
+
+Los resultados del presente estudio ponen de manifiesto un desajuste emocional paralelo en cibervíctimas y ciberagresores respecto de las variables estrés percibido, sentimiento de soledad y sintomatología depresiva. En las tres variables, tanto las víctimas como los agresores severos han obtenido puntuaciones más elevadas. En las cibervíctimas, el elevado grado de estrés percibido puede interpretarse como consecuencia del propio acoso experimentado (Cénat et al., 2014). Esta situación de maltrato y marginación social se ha asociado igualmente a un mayor sentimiento de soledad (Brewer y Kerslake, 2015; Ortega-Barón et al., 2016). De hecho, el uso de dispositivos tecnológicos podría ser una herramienta para escapar de su aislamiento (Iranzo, 2017), pues en la etapa adolescente el reconocimiento y aceptación social es fundamental para el ajuste psicoemocional de la persona (Estévez et al., 2006), y esta experiencia tan negativa para su identidad y bienestar general puede desarrollar eventualmente más síntomas depresivos (Modecki et al., 2013). Así, trabajos recientes han asociado el aislamiento social (Alonso y Romero, 2016) y el estrés psicológico (Platt, Kadosh y Lau, 2013) inducido por el ciberacoso como predictores de la depresión en adolescentes cibervíctimas.
+
+Los ciberagresores severos del presente estudio informaron también de un elevado estrés percibido; algunos autores sostienen que el estrés que sufren los agresores cibernéticos podría derivar de tensiones y frustraciones sufridas anteriormente, justificando el ciberacoso como un medio de venganza o para afrontar la frustración (Alonso y Romero, 2016). El hecho de no percibir el apoyo social esperado por parte de otros compañeros a su conducta hostil cibernética podría suscitar en los agresores sentimientos de soledad (Brewer y Kerslake, 2015). Esta sensación de aislamiento y soledad se asocia con una mayor participación en conductas violentas (Crespo-Ramos, Romero-Abrio, Martínez-Ferrer y Musitu, 2017), y podría explicar, en parte, la situación de desajuste escolar-académico y familiar de los agresores, aportándoles un mayor riesgo de mostrar síntomas depresivos (Masten y Cicchetti, 2010).
+
+El estrés, la soledad, la sintomatología depresiva, e incluso los miedos y ansiedad en que se ven envueltos los implicados en situaciones de ciberacoso, tanto en el rol de víctimas como de agresores, pueden estar a la base de la mayor insatisfacción vital general que muestran estos adolescentes, en el presente trabajo, y en otros precedentes (Navarro et al., 2015; Ortega-Barón et al., 2016).
+
+Nuestros resultados indican que, no obstante, la ansiedad social está más generalizada en las cibervíctimas. Así, las cibervíctimas severas mostraron mayores puntuaciones en las tres dimensiones de ansiedad social, indicando miedo a la evaluación negativa de los demás, como también a las situaciones sociales en general, tanto nuevas como habituales. Los ciberagresores mostraron mayor temor por la evaluación negativa de los demás, pero no informaron de ansiedad en situaciones sociales en general. Como es previsible, para las cibervíctimas, por su condición de maltrato, y tal y como investigaciones previas sostienen, las interacciones sociales suscitan mayor ansiedad generalizada que puede devenir en la evitación de situaciones de exposición al contacto social (Navarro et al., 2012); así, estos estudios sugieren que el temor a la evaluación negativa y la evitación social, podrían actuar como causa o consecuencia de la cibervictimización. En el estudio de Harman, Hansen, Cochran y Lindsey (2005) con ciberagresores, estos autores asocian la ansiedad social de estos a una falta de habilidades sociales para interactuar con el grupo de iguales, llevándolos a sumergirse en el entorno cibernético para escapar de esta ansiedad, que se fundamenta principalmente, como nuestros resultados apuntan, al miedo a la evaluación negativa de los demás.
+
+Finalmente, nuestros datos parecen confirmar también que las cibervíctimas tienen más déficits que los ciberagresores respecto de su atención, comprensión y claridad emocional, así como de su regulación de emociones -dimensiones todas ellas del constructo de IE medido-. Un dato muy interesante es que las cibervíctimas mostraron en general una elevada atención emocional en comparación con los no victimizados, un resultado que coincide con el observado en víctimas de acoso tradicional (Nabuzoka et al., 2009), y en recientes estudios sobre ciberacoso (Beltrán-Catalán, Zych, Ortega-Ruiz y Llorent, 2018) en los que se concluye que la elevada atención y concentración en el propio estado emocional requiere una gran inversión de recursos cognitivos para analizar y poder comprender los propios sentimientos, unido, en estos casos, a un peor manejo emocional para reparar su estado de ánimo (de ahí su malestar psicológico general) (Ortega et al., 2009). Estos déficits en las dimensiones de la IE pueden actuar como factor de riesgo para el desarrollo psicológico adecuado (Extremera et al., 2018). A pesar de la importancia del estudio de la IE en la cibervictimización, la literatura científica existente al respecto es insignificante.
+
+Por otro lado, la controversia respecto de la IE en agresores es igualmente evidente, así como la falta de trabajos al respecto. En algunas investigaciones se han observado niveles significativamente bajos de IE general en agresores (Fernández-González, et al., 2018; Inglés et al., 2014) y en ciberagresores (Baroncelli y Ciucci, 2014; Eden, Heiman y Olenik-Shemesh, 2016), si bien en nuestros análisis efectuados por dimensiones del constructo de IE, no se constataron diferencias entre el grupo de ciberagresores y el de no ciberagresores. Nuestros resultados sugieren que los adolescentes que agreden a través de medios tecnológicos son capaces de atender, comprender y gestionar sus emociones con normalidad. Este resultado va en la línea de lo apuntado por algunos autores que sostienen que en la agresión cibernética el procesamiento emocional puede ser más elaborado, más pausado y menos espontaneo, a diferencia del acoso tradicional donde la presencia física y el impacto emocional consecuente es más directo (Elipe, Ortega, Hunter y Del Rey, 2012). Si bien son necesarias más investigaciones que indaguen acerca de la IE así como de las estrategias de resolución de problemas, ya que se han hallado evidencias de que los implicados en acoso, tanto tradicional como cibernético, presentan más conductas antisociales y estrategias agresivas para la resolución de conflictos (Garaigordobil, 2017).
+
+En definitiva, este estudio resulta un trabajo novedoso que aporta resultados sugerentes acerca del perfil psicológico de las cibervíctimas, pero sobre todo de los ciberagresores, ya que son muy escasas las investigaciones que se han centrado en examinar el ajuste psicológico de éstos. Profundizar en la comprensión del ciberacoso puede ayudar a elaborar estrategias y programas de prevención e intervención más eficaces ante esta problemática de creciente presencia en nuestras sociedades y de gran relevancia educativa, clínica y social.
+
+Si bien, a pesar de que este trabajo resulta pionero en este ámbito, también tiene limitaciones que deberían intentar subsanarse en futuros estudios. Por un lado, los resultados obtenidos no pueden generalizarse a estudiantes de otros niveles educativos donde también se observan problemas de ciberagresión, como en centros de educación primaria. Por otro lado, los resultados podrían tener sesgos derivados de la deseabilidad social en las respuestas emitidas en las escalas de autoinforme, si bien estudios previos han constatado la fiabilidad y validez de este tipo de instrumentos para la medición de conductas de riesgo en adolescentes (Buelga et al., 2015). Cabe añadir que no se ha realizado un análisis exhaustivo del porcentaje de ciberagresores que son su vez cibervíctimas. Estudios actuales están encontrando cierto solapamiento en ambos roles. Finalmente, la naturaleza transversal del presente estudio impide el establecimiento de inferencias causales relacionadas con la ciberagresión y los indicadores de ajuste psicológico, pudiendo esto solventarse con diseños longitudinales que ayudasen a confirmar la dirección de las relaciones.
+
+REFERENCIAS
+
+Alonso, C., & Romero, E. (2016). Ciberacoso: Características de personalidade e psicopatolóxicas do ciberagresor e da cibervítima. Revista Oficial da Sección de Psicoloxía e Saúde do Copg, 9, 71-82. [ Links ]
+
+Álvarez, G. (2015). Cyberbullying, una nueva forma de acoso escolar (Tesis Doctoral). UNED, España. [ Links ]
+
+Atienza, F. L., Pons, D., Balaguer, I., & García-Merita,M. (2000). Propiedades psicométricas de la escala de satisfacción con la vida en adolescentes. Psicothema, 12(2), 314-320. [ Links ]
+
+Avilés, J. M. (2010). Éxito escolar y ciberbullying. Boletín de Psicología, 98, 73-85. [ Links ]
+
+Baroncelli, A., & Ciucci, E. (2014). Unique effects of different components of trait emotional intelligence in traditional bullying and cyberbullying. Journal of Adolescence, 37, 807-815. doi: 10.1016/j.adolescence.2014.05.009 [ Links ]
+
+Bartrina, M. J. (2014). Conductas de ciberacoso en niños y adolescentes. Hay una salida con la educación y la conciencia social.Educar,50(2), 383-400. doi: 10.5565/rev/educar.672 [ Links ]
+
+Beltrán-Catalán, M., Zych, I., Ortega-Ruiz, R., & Llorent, V. J. (2018). Victimisation through bullying and cyberbullying: Emotional intelligence, severity of victimisation and technology use in different types of victims.Psicothema,30(2), 183-188. doi: 10.7334/psicothema2017.313 [ Links ]
+
+Brewer, G., & Kerslake, J. (2015). Cyberbullying, self-esteem, empathy and loneliness. Computers in Human Behavior, 48, 255-260. doi: 10.1016/j.chb.2015.01.073 [ Links ]
+
+Buelga, S., & Pons, J. (2012). Agresiones entre adolescentes a través del teléfono móvil y de internet. Psychosocial Intervention, 21(1), 91-101. doi: 10.5093/in2012v21n1a2 [ Links ]
+
+Buelga, S., Cava, M. J., & Musitu, G. (2010). Cyberbullying: victimización entre adolescentes a través del teléfono móvil y de internet. Psicothema, 22(4), 784-789. [ Links ]
+
+Buelga, S., Iranzo, B., Cava, M. J., & Torralba, E. (2015). Psychological profile of adolescent cyberbullying aggressors.Revista de Psicología Social,30(2), 382-406. doi: 10.1080/21711976.2015.1016754 [ Links ]
+
+Campbell, M. A., Slee, P. T., Spears, B., Butler, D., & Kift, S. (2013). Do cyberbullies suffer too? Cyberbullies’ perceptions of the harm they cause to others and to their own mental health.School Psychology International,34(6), 613-629. doi: 10.1177/0143034313479698 [ Links ]
+
+Cava, M. J., Buelga, S., Musitu, G., & Murgui, S. (2010). Violencia escolar entre adolescentes y sus implicaciones en el ajuste psicosocial: un estudio longitudinal.Revista de Psicodidáctica,15(1), 21-34. [ Links ]
+
+Cénat, J. M., Hébert, M., Blais, M., Lavoie, F., Guerrier, M., & Derivois, D. (2014). Cyberbullying, psychological distress and self-esteem among youth in Quebec schools. Journal of affective disorders, 169, 7-9. doi: 10.1016/j.jad.2014.07.019 [ Links ]
+
+Cerezo, F., Sánchez, C., Ruiz, C., & Arense, J. J. (2015). Roles en bullying de adolescentes y preadolescentes, y su relación con el clima social y los estilos educativos parentales.Revista de Psicodidáctica,20, 139-155. doi: 10.1387/RevPsicodidact.11097 [ Links ]
+
+Cohen, S., Kamarck, T., & Mermelstein, R. (1983). A global measure of perceived stress. Journal of Health and Social Behavior, 24, 385-396. doi: 10.2307/2136404 [ Links ]
+
+Crespo-Ramos, S., Romero-Abrio, A., Martínez-Ferrer, B., & Musitu, G. (2017). Variables psicosociales y violencia escolar en la adolescencia.Psychosocial Intervention,26(2), 125-130. doi: 10.1016/j.psi.2017.05.002 [ Links ]
+
+Diener, E., Emmons, R., Larsen, R. J., & Griffin, S. (1985). The Satisfaction with Life Scale. Journal of Personality Assessment, 49, 71-75. doi: 10.1207/s15327752jpa4901_13 [ Links ]
+
+Delgado, B., Gonzálvez, C., Vicent, M., Gomis-Selva, N., & Inglés, C.J. (2015). El cyberbullying y el ajuste psicoemocional en estudiantes de 5º y 6º de Educación Primaria. Conselleria de Cultura, Educació i Esport, Educación emocional de 8 a 12 años. Cultivando emociones 2 (pp. 230-246). Alicante: Azorín. [ Links ]
+
+Eden, S., Heiman, T., & Olenik-Shemesh, D. (2016). Bully versus victim on the internet: The correlation with emotional-social characteristics. Education and Information Technologies, 21, 699-713. doi: 10.1007/s10639-014-9348-2 [ Links ]
+
+Elipe, P., Ortega, R., Hunter, S. C., & Del Rey, R. (2012). Inteligencia emocional percibida e implicación en diversos tipos de acoso escolar.Psicología Conductual,20(1), 169-181. [ Links ]
+
+Estévez, E., Martínez, B., & Musitu, G. (2006). La autoestima en adolescentes agresores y víctimas en la escuela: La perspectiva multidimensional.Psychosocial Intervention,15(2), 223-232. [ Links ]
+
+Expósito, F., & Moya, M. C. (1999). Soledad y Apoyo Social. Revista de Psicología Social, 2-3, 319-339.doi: 10.1174/021347499760260000 [ Links ]
+
+Extremera, N., Quintana-Orts, C., Mérida-López, S., & Rey, L. (2018). Cyberbullying victimization, self-esteem and suicidal ideation in adolescence: does emotional intelligence play a buffering role?Frontiers in psychology, 9(367). doi: 10.3389/fpsyg.2018.00367 [ Links ]
+
+Durán, M. & Martínez, R. (2015). Ciberacoso mediante teléfono móvil e Internet en las relaciones de noviazgo entre jóvenes. Comunicar, 44, 159-167. doi: 10.3916/C44-2015-17 [ Links ]
+
+Fahy, A. E., Stansfeld, S. A., Smuk, M., Smith, N. R., Cummins, S., & Clark, C. (2016). Longitudinal associations between cyberbullying involvement and adolescent mental health.Journal of Adolescent Health,59(5), 502-509.doi: 10.1016/j.jadohealth.2016.06.006 [ Links ]
+
+Fernández-Berrocal, P., Extremera, N., & Ramos, N. (2004). Validity and reliability of the Spanish modified version of the Trait Meta-Mood Scale. PsychologicalReports, 94(3), 751-755. doi: 10.2466/PR0.94.3.751-755 [ Links ]
+
+Fernández-González, L., Calvete, E., Orue, I., & Echezarraga, A. (2018). The role of emotional intelligence in the maintenance of adolescent dating violence perpetration.Personality and Individual Differences,127, 68-73. doi: 10.1016/j.paid.2018.01.038 [ Links ]
+
+Fernández-Montalvo, J., Peñalva, A., y Irazabal I. (2015). Hábitos de uso y conductas de riesgo en Internet en la preadolescencia.Comunicar44, 113-120.doi: 10.3916/C44-2015-12 [ Links ]
+
+Garaigordobil, M. (2011). Prevalencia y consecuencias del cyberbullying: una revisión.International Journal of Psychology and Psychological Therapy,11(2), 233-254. [ Links ]
+
+Garaigordobil, M. (2017). Conducta antisocial: conexión con bullying/cyberbullying y estrategias de resolución de conflictos.Psychosocial Intervention,26(1), 47-54. doi: 10.1016/j.psi.2017.05.002 [ Links ]
+
+García, C. M. (2013). Acoso y ciberacoso en escolares de primaria: factores de personalidad y de contexto entre iguales. Tesis doctoral, Universidad de Córdoba, Córdoba, España. [ Links ]
+
+García, F., & Musitu, G. (1999). AF5: Autoconcepto Forma 5. Madrid: Tea. [ Links ]
+
+Garner, P. W., & Lemerise, E. A. (2007). The roles of behavioral adjustment and conceptions of peers and emotions in preschool children's peer victimization.Development and psychopathology,19(1), 57-71. [ Links ]
+
+Gomes-Franco, E., Silva, F., & Sendín-Gutiérrez, J. C. (2014). Internet como refugio y escudo social: Usos problemáticos de la Red por jóvenes españoles.Comunicar,21(43), 45-53. doi: 10.3916/C43-2014-04 [ Links ]
+
+Harman, J. P., Hansen, C. E., Cochran, M. E., & Lindsey, C. R. (2005). Liar, liar: Internet faking but not frequency of use affects social skills, self-esteem, social anxiety, and aggression.Cyberpsyhology, Behavior y Social Networking, 8(1), 1-6. doi: 10.1089/cpb.2005.8.1 [ Links ]
+
+Herrero, J., & Meneses, J. (2006). Short Web-based versions of the perceived stress (PSS) and Center for Epidemiological Studies-Depression (CESD) Scales: a comparison to pencil and paper responses among Internet users. Computers in Human Behavior, 22, 830-848. doi: 10.1016/j.chb.2004.03.007 [ Links ]
+
+Hunter, S. C. & Borg, M. G. (2006). The influence of emotional reaction on help seeking by by Victims of School Bullying.Educational Psychology, 26(6), 813-826. doi: 10.1080/01443410600941946 [ Links ]
+
+Ildırım, E., Çalıcı, C., & Erdoğan, B. (2017). Psychological Correlates of Cyberbullying and Cyber-Victimization.The International Journal of Human and Behavioral Science, 3(2), 7-21. doi: 10.19148/ijhbs.365829 [ Links ]
+
+Inchley, J., Currie, C., Young, T., Samdal, O., Torsheim, T., Auguston, L., Mathison, F., Aleman-Diaz, A., Molcho, M., Weber, M., & Barnekow, V. (2016). Growing up Unequal: Gender and Socioeconomic Differences in Young People's Health and Well-being. Health Behaviour in School-aged Children (HBSC) Study: International Report from the 2013/14 Survey. Health Policy for Children and Adolescents (7). World Health Organisation, Copenhagen. [ Links ]
+
+Inglés, C. J., Torregrosa, M. S., García-Fernández, J. M., Martínez-Monteagudo, M. C., Estévez, E., & Delgado, B. (2014). Conducta agresiva e inteligencia emocional en la adolescencia.European Journal of Education and Psychology, 7(1), 29-40. [ Links ]
+
+Iranzo, B. (2017). Ajuste psicosocial en adolescentes víctimas de cyberbullying. Tesis Doctoral, Universidad de Valencia, Valencia, España. [ Links ]
+
+Jiménez, T. I., Estévez, E., & Murgui, S. (2014). Ambiente comunitario y actitud hacia la autoridad: relaciones con la calidad de las relaciones familiares y con la agresión hacia los iguales en adolescentes.Anales de psicología,30(3), 1086-1095. [ Links ]
+
+Kelly, B. M., Schwartz, D., Gorman, A. H., & Nakamoto, J. (2008). Violent victimization in the community and children’s subsequent peer rejection: The mediating role of emotion dysregulation. Journal of Abnormal Child Psychology 36(2), 175-185. [ Links ]
+
+La Greca, A. M., & Lopez, N. (1998). Social anxiety among adolescents: Linkage with peer relations and friendships. Journal of Abnormal Child Psychology, 26, 83-94. doi: 10.1177/0272431611426145 [ Links ]
+
+León-del-Barco, Benito, Felipe-Castaño, Elena, Polo-del-Río, Mª Isabel, & Fajardo-Bullón, Fernando. (2015). Aceptación-rechazo parental y perfiles de victimización y agresión en situaciones de bullying.Anales de Psicología,31(2), 600-606. doi: https://dx.doi.org/10.6018/analesps.31.2.156391 [ Links ]
+
+Lereya, S. T., Samara, M., & Wolke, D. (2013). Parenting behavior and the risk of becoming a victim and a bully/victim: A meta-analysis study.Child abuse & neglect,37(12), 1091-1108. doi: 10.1016/j.chiabu.2013.03.001 [ Links ]
+
+Marsh, H. W., Parada, R. H., Craven, R. G., & Finger, L. (2004). In the looking glass: A reciprocal model elucidating the complex nature of bullying, psychological determinants, and the central role of self-concept. En C. E. Sanders & D. G. Phye (Eds.), Bullying: Implications for the classroom (pp. 63-109). San Diego, CA: Elsevier Academic Press. [ Links ]
+
+Martín-Albo, J., Núñez, J. L., & León, J. (2010). Analysis of the psychometric properties of the Spanish version of the trait meta-mood scale in a sports context. Psychological Reports 106 (2), 477-489. doi: 10.2466/PR0.106.2.477-489 [ Links ]
+
+Masten, A. S., & Cicchetti, D. (2010). Developmental cascades.Development and Psychopathology, 22, 491 -495. doi: 10.1017/S0954579410000222 [ Links ]
+
+Modecki, K. L., Barber, B. L., & Vernon, L. (2013). Mapping developmental precursors of cyber-aggression: Trajectories of risk predict perpetration and victimization.Journal of youth and adolescence,42(5), 651-661. doi: 10.1007/s10964-012-9887-z [ Links ]
+
+Nabuzoka, D., Rønning, J. A., & Handegård, B. H. (2009). Exposure to bullying, reactions and psychological adjustment of secondary school students.Educational Psychology,29(7), 849-866. doi: 10.1080/01443410903326613 [ Links ]
+
+Navarro, F. (2014). Socialización familiar y adaptación escolar en adolescentes (Tesis Doctoral). Universidad de Castilla-La Mancha, España. [ Links ]
+
+Navarro, R., Ruiz-Oliva, R., Larrañaga, E. & Yubero, S. (2015). The Impact of Cyberbullying and Social Bullying on Optimism, Global and School-Related Happiness and Life Satisfaction Among 10-12-year-old Schoolchildren. Applied Research in Quality of Life, 10, 15-36. [ Links ]
+
+Navarro, R., Yubero, S., Larrañaga, E., & Martínez, V. (2012). Children’s cyberbullying victimization: Associations with social anxiety and social competence in a Spanish sample.Child indicators research, 5(2), 281-295. doi: 10.1007/s12187-011-9132-4 [ Links ]
+
+Olivares, J., Ruiz, J. , Hidalgo, M.D., García-López, L.J., A.I., & Piqueras, Rosa J.A. (2005). Social Anxiety Scale for Adolescents (SAS-A): Psychometric properties in a Spanish-speaking population. International Journal of Clinical and Health Psychology, 5, 85-97.doi: 10.1007/s10578-012-0285-2 [ Links ]
+
+Ortega-Barón, J., Buelga, S., & Cava, M. J. (2016). Influencia del clima escolar y familiar en adolescentes, víctimas de ciberacoso. Comunicar, 24(46), 57-65. doi: 10.3916/C46-2016-06 [ Links ]
+
+Ortega-Barón, J., Buelga, S., Cava, M. J., & Torralba, E. (2017). Violencia escolar y actitud hacia la autoridad de estudiantes agresores de cyberbullying.Revista de Psicodidáctica,22(1), 23-28. doi: 10.1387/RevPsicodidact.16398 [ Links ]
+
+Ortega, R., Elipe, P., Mora-Merchán, J. A., & Del Rey, R. (2009). Inteligencia emocional percibida y cyberbullying en estudiantes de secundaria. Comunicación presentada en el II Congreso Internacional de Inteligencia Emocional, Santander, España. [ Links ]
+
+Platt, B., Kadosh, K. C., & Lau, J. Y. (2013). The role of peer rejection in adolescent depression.Depression and anxiety,30(9), 809-821. doi: 10.1002/da.22120 [ Links ]
+
+Radloff, L. S. (1977). The CES-D scale: A self-report depression scale for research in the general population.Applied psychological measurement, 1(3), 385-401. doi: 10.1177/014662167700100306 [ Links ]
+
+Romera, E.M., Cano, J. J., García-Fernández, C., & Ortega-Ruiz, R. (2016). Cyberbullying: competencia social, motivación y relaciones entre iguales. Comunicar, 48,71-79. doi: 10.3916/C48-2016-07 [ Links ]
+
+Russell, D. (1996). UCLA Loneliness Scale (Version 3): Reliability, validity, and factor structure. Journal of Personality Assessment, 66, 20-40. doi: 10.1207/s15327752jpa6601_2 [ Links ]
+
+Şahin, M. (2012). The relationship between the cyberbullying/cybervictimization and loneliness among adolescents. Children and Youth Services Review, 34(4), 834-837. doi: 10.1016/j.childyouth.2012.01.010 [ Links ]
+
+Salovey, P., Mayer, J. D., Goldman, S. L., Turvey, C., & Palfai, T. P. (1995). Emotional attention, clarity, and repair:exploring emotional intelligence using the Trait Meta-Mood Scale. En J. W. Pennebaker (Ed.), Emotion, Disclosure, & Health (pp. 125-151). Washington: American Psychological Association. doi: 10.1037/10182-006 [ Links ]
+
+Samper-García, P., Mestre-Escrivá, V., Malonda, E., & Mesurado, B. (2015). Victimización en la escuela: relación de la crianza y variables funcionales-disfuncionales del desarrollo.Anales de Psicología,31(3), 849-858. Doi: https://dx.doi.org/10.6018/analesps.31.3.173291 [ Links ]
+
+Schenk, A. M., Fremouw, W. J., & Keelan, C. M. (2013). Characteristics of college cyberbullies.Computers in Human Behavior,29(6), 2320-2327. doi: 10.1016/j.chb.2013.05.013 [ Links ]
+
+Smith, P. K., Mahdavi, J., Carvalho, M., Fisher, S., Russell, S., & Tippett, N. (2008). Cyberbullying: Its Nature and Impact in Secondary School Pupils. Journal of Child Psychology and Psychiatry, 49(4), 376-385. doi: 10.6018/analesps.32.3.217461 [ Links ]
+
+Valdés, A., Alcántar, C., Reyes, A., Torres, G., & Urías, M. (2014). Diferencias en el autoconcepto de estudiantes de bachillerato con y sin reportes de victimización por ciberbullying. Sociedad Académica, 43, 35-39. [ Links ]
+
+Vlachou, M., Andreou, E., Botsoglou, K., & Didaskalou, E. (2011). Bully/victim problems among preschool children: A review of current research evidence.Educational Psychology Review,23(3), 329. [ Links ]
+
+Webster, G. D., & Kirkpatrick, L. A. (2006). Behavioral and self‐reported aggression as a function of domain-specific self-esteem.Aggressive Behavior,32(1), 17-27. doi: 10.1002/ab.20102 [ Links ]
+
+Acknowledgments.- Este trabajo se enmarca en el Proyecto “Bullying, ciberbullying y violencia filio-parental en la adolescencia” – Referencia: PSI2015-65683-P [MINECO/FEDER, UE], financiado por el inisterio de Economía y Competitividad y por la Unión Europea a través del Fondo Europeo de Desarrollo Regional–FEDER- - “Una manera de hacer Europa”.
+
+Recibido: 01 de Marzo de 2018; Revisado: 16 de Abril de 2018; Aprobado: 28 de Febrero de 2019
+
+© Copyright 2019: Editum. Servicio de Publicaciones de la Universidad de Murcia. Murcia (Spain)
+Creative Commons License This is an open-access article distributed under the terms of the Creative Commons Attribution License
+
+ 
+Servicio de Publicaciones, Universidad de Murcia, Edificio Pleiades. Campus de Espinardo, Murcia, Región de Murcia, ES, 30100, 868 88 3409, 868 883483
+
+analesps@um.es

@@ -1,0 +1,651 @@
+arbol-elsevier
+Tienda Elsevier Regístrese Mi cuenta
+RevistasCursosCall for papersArtículos más leídosColeccionesFondo editorialMás información
+Revista de Psicodidáctica
+Buscar
+Revista de Psicodidáctica Asociación entre el bullying, la ansiedad y la depresión en la infancia y la a...
+Inicio
+Todos los contenidos
+Publique su artículo
+Acerca de la revista
+Métricas
+Información de la revista 
+Artículo anterior | Artículo siguiente
+Vol. 28. Núm. 1.
+Páginas 26-34 (Enero - Junio 2023)
+Read this article in English Exportar referencia Compartir Imprimir Descargar PDF 
+Apartados
+Resumen
+Palabras clave
+Abstract
+Keywords
+Introducción
+Original
+DOI: 10.1016/j.psicod.2022.10.001
+ Open Access
+Asociación entre el bullying, la ansiedad y la depresión en la infancia y la adolescencia: el efecto mediador de la autoestima
+Association between bullying victimization, anxiety and depression in childhood and adolescence: The mediating effect of self-esteem
+Nekane Balluerka, Jone Aliri
+, Olatz Goñi-Balentziaga, Arantxa Gorostiaga
+Departamento de Psicología clínica y de la salud y metodología de investigación, Facultad de Psicología, Universidad el País Vasco UPV/EHU, España
+Este artículo ha recibido
+10665 Visitas
+37 Citas
+
+Under a Creative Commons license
+Información del artículoResumen Texto completo Bibliografía Descargar PDF Estadísticas 
+Resumen
+El bullying constituye un problema psicosocial muy grave que conlleva consecuencias negativas, siendo uno de los principales factores de riesgo para el desarrollo de problemas psicológicos y sintomatología psicopatológica tanto en la niñez y la adolescencia como en la edad adulta. En el presente estudio se pretende analizar el efecto mediador de la autoestima en la relación entre padecer acoso y desarrollar síntomas ansiosos y depresivos. Han participado 550 niños y niñas y adolescentes (56.5% mujeres) de entre 10 y 17 años (M=12.20, DT=1.75) de la Comunidad Autónoma del País Vasco, que han cumplimentado una batería de instrumentos compuesta por un cuestionario de variables sociodemográficas, un cuestionario para la evaluación de la victimización escolar, la escala para la medición de la autoestima de Rosenberg y el cuestionario Educativo-Clínico: Ansiedad y Depresión. Los resultados de los modelos de ecuaciones estructurales reflejan, por un lado, que sufrir bullying es un factor de riesgo para desarrollar ansiedad y depresión en la niñez y en la adolescencia. Por otro lado, confirman que la autoestima es una variable que media la relación entre el bullying y ambos problemas emocionales. Esta acción mediadora de la autoestima resulta de gran relevancia en el caso de la depresión, dado que el efecto que tiene el bullying sobre la depresión aumenta cuando está mediatizado por la autoestima. Se discuten las implicaciones de los resultados, tanto en el ámbito de la psicología educativa, como en el ámbito del bienestar psicológico de niños y niñas y adolescentes.
+
+Palabras clave:
+BullyingAnsiedadDepresiónAutoestimaInfanciaAdolescencia
+Abstract
+Bullying is a serious psychosocial problem that impacts negatively on victims, and it is one of the main risk factors for the development of psychological problems and psychopathological symptoms in childhood, adolescence, and adulthood. This study analyzes the mediating effect of self-esteem on the relationship between bullying victimization and the development of anxiety and depressive symptoms. The sample comprised 550 children and adolescents (56.5% women) aged between 10 and 17 years (M=12.20, SD=1.75) from the Basque Country, each of whom completed a battery of instruments consisting of a sociodemographic variables data sheet, a questionnaire for evaluating peer victimization, the Rosenberg Self-Esteem Scale, and the Educational-Clinical Questionnaire: Anxiety and Depression. Results from structural equation modeling indicated that bullying victimization is a risk factor for developing anxiety and depression in childhood and adolescence, and also that the relationship between bullying victimization and these two emotional problems is mediated by self-esteem. This mediating effect of self-esteem is especially important in the case of depression, insofar as the effect of bullying victimization on depression is greater when mediated by self-esteem. The implications of the results are discussed, both for the field of educational psychology and in in relation to the psychological wellbeing of children and adolescents.
+
+Keywords:
+BullyingAnxietyDepressionSelf-esteemChildhoodAdolescence
+Texto completo
+Introducción
+El bullying, término derivado del inglés para denominar el acoso o victimización entre iguales, se define como una conducta agresiva, de larga duración, frecuente e intencionada cometida por iguales hacia personas que no se pueden defender fácilmente, es decir, donde hay una clara asimetría de poder (Smith et al., 2002). Las investigaciones sobre el bullying se inician hace casi 50 años (Olweus, 1973), y debido a que los resultados encontrados muestran que tiene consecuencias muy negativas sobre el desarrollo de los niños, las niñas y los y las adolescentes, pudiendo incluso poner en peligro sus vidas, en los últimos años ha aumentado considerablemente la cantidad de estudios realizados en torno a esta temática (Zych et al., 2015). Asimismo, cada vez se diseñan e implementan más programas para prevenir el bullying, tanto a nivel estatal (Garaigordobil et al., 2016; González-Bellido, 2015; Montoya-Castilla et al., 2016; Piñuel y Cortijo, 2018; Del Rey-Alamillo et al., 2018; Sánchez-Ramos y Blanco-López, 2017) como internacional (Beane et al., 2008; Kärnä et al., 2011; Olweus y Limber, 2019), sobre todo en el ámbito educativo (Ttofi y Farrington, 2011). Sin embargo, las conductas de acoso todavía están muy lejos de ser erradicadas (Garnefski y Kraaij, 2014).
+
+Tipos de acoso
+Existen diversos tipos de acoso que pueden ser más o menos frecuentes en función del sexo y de la edad. Así, diferentes autores han clasificado las conductas de acoso en agresión física (pegar, empujar, escupir), verbal (insultar, poner motes), relacional/social (exclusión social directa o indirecta, difundir rumores, aislar y excluir de juegos), amenazas (mediante acciones o expresiones), agresión basada en objetos (transformación, sustracción, destrucción o retención de objetos personales), bullying sexual (realizar tocamientos o comentarios sexuales inapropiados) y ciberbullying (acoso realizado a través de medios digitales) (Çalişkan et al., 2019; Cunningham, 2007; Magaz et al., 2016). Este último es cada vez más habitual y suscita una especial preocupación debido a que puede realizarse durante las 24 horas del día, los 7 días de la semana, y a que puede ser ejercido tanto por parte de personas conocidas como desconocidas (Menesini et al., 2012; Tokunaga, 2010). Diversos estudios indican que el ciberbullying y el bullying tradicional (que incluye el resto de las conductas antes citadas) están estrechamente relacionados (Smith et al., 2008; Ybarra y Mitchell, 2004), y que ser víctima del bullying tradicional predice ser víctima del ciberbullying (Pornari y Wood, 2010).
+
+En cuanto al sexo, diferentes estudios han encontrado que los chicos tienen más probabilidad de sufrir amenazas, intimidación, agresiones físicas y agresión basada en objetos personales (Çalişkan et al., 2019; Lemstra et al., 2012; Pells et al., 2016), mientras que las chicas presentan un mayor riesgo de padecer agresiones verbales y exclusión social (Çalişkan et al., 2019; Lemstra et al., 2012; Vessey y O’Neill, 2011). Sin embargo, no se han encontrado diferencias en función del sexo en la victimización por ciberbullying (Gradinger et al., 2009; Li, 2006).
+
+Del mismo modo, la edad también parece influir en el tipo de bullying que se ejerce y que se sufre. En las edades tempranas, en las que todavía no se ha desarrollado el lenguaje, el acoso físico es el más frecuente (Coyne et al., 2010). No obstante, a medida que se van adquiriendo capacidades verbales, el tipo de acoso suele tener un carácter más verbal. Durante la edad preescolar, en la que los niños y las niñas incrementan las relaciones con sus iguales, las agresiones indirectas son cada vez más frecuentes y estas conductas se vuelven más sutiles y complejas durante la adolescencia. El ciberbullying también suele comenzar más tarde, coincidiendo con la edad en la que se tiene acceso al uso de los medios digitales, que cada vez es más temprana (Barlett y Coyne, 2014).
+
+Psicopatología relacionada con el bullying
+El bullying está reconocido como un problema psicosocial muy grave que conlleva consecuencias negativas. De hecho, sufrir acoso se considera uno de los principales factores de riesgo para el desarrollo de problemas psicoló-gicos y sintomatología psicopatológica tanto en la niñez y la adolescencia como en la edad adulta. En concreto, ser víctima de acoso aumenta el riesgo de padecer dificultades académicas (Schwartz et al., 2005), ansiedad (Coelho y Romao, 2018), síntomas psicosomáticos como insomnio o dolor de cabeza (Natvig et al., 2001), sintomatología depresiva (Brunstein Klomek et al., 2019; Sweeting et al., 2006), autolesiones e ideación suicida (Bang y Park, 2017; Obando et al., 2018; Pedreira-Massa, 2019), psico-sis (Bang y Park, 2017), trastornos de la conducta alimentaria (Lie et al., 2019) y trastorno por estrés postraumático (Houbre et al., 2006). Asimismo, las víctimas tienden a mostrar un peor ajuste emocional (Khatri et al., 2000) y una autoestima más baja, especialmente en el ámbito social (Estévez et al., 2009; Kowalski y Limber, 2013). En concreto, en una revisión sistemática donde se estudian los efectos emocionales de la victimización entre iguales, se observa que en el 50% de las investigaciones analizadas, los y las jóvenes que sufren acoso muestran problemas de autoestima (Hutson, 2018).
+
+Entre todos los problemas estudiados, la depresión, la ansiedad y la ideación suicida son las consecuencias emocionales más citadas de la victimización entre iguales (Bottino et al., 2015; Moore et al., 2017). En este sentido, una revisión sistemática reciente muestra una relación muy clara entre el ciberacoso y la conducta suicida en adolescentes (Buelga et al., 2022), llegando incluso a observar que más de la mitad de las cibervíctimas tienen ideaciones suicidas y que casi un 20% ha realizado tentativas de suicidio (Nagamitsu et al., 2020). Además, cada vez hay más evidencias que sugieren que las víctimas de bullying durante la infancia pueden sufrir un deterioro importante en su bienestar tanto a corto como a largo plazo, y que tales consecuencias se extienden hasta una edad superior a los 20 años (Copeland et al., 2013).
+
+Existen diversos modelos teóricos que tratan de explicar la asociación entre el bullying y la depresión. El modelo guiado por los síntomas (Kochel et al., 2012; Sentse et al., 2017) plantea que el hecho de padecer depresión contribuye a sufrir acoso. El reciente estudio de Kochel y Rafferty (2020) es uno de los primeros que ha proporcionado apoyo empírico a este modelo incluyendo la indefensión social como variable mediadora entre los síntomas depresivos y el acoso. Los modelos basados en el riesgo interpersonal (Troop-Gordon et al., 2015), por su parte, defienden que la victimización contribuye a la depresión. En concreto, las teorías de la depresión derivada de la desesperanza (Abramson et al., 1989; ver Liu et al., 2015, para una revisión) plantean que cuando se sufren eventos vitales negativos, pueden desarrollarse inferencias y conductas desadaptativas que producen desesperanza y llevan a la depresión. Así, un niño, una niña o un adolescente puede pensar que el evento negativo, en este caso el bullying, se debe a su baja competencia social y que nunca dejará de sufrir acoso, lo que puede llevarle a no mostrar interés por las relaciones sociales y a desarrollar tristeza y apatía derivadas de la desesperanza. Asimismo, existen modelos teóricos que defienden la naturaleza transaccional de la asociación entre la victimización entre iguales y la depresión (Kawabata et al., 2014).
+
+Como se ha señalado más arriba, otro de los problemas emocionales que ha mostrado mayor relación con la victimización entre iguales es la ansiedad. En el caso de la ansiedad social, diversos autores han defendido que ésta puede ser tanto precursora como consecuencia de la victimización (Wichstrøm et al., 2013). Partiendo del modelo teórico propuesto en el marco de la terapia de esquema (Young et al., 2003), Calvete et al. (2018) examinan el rol de los esquemas desadaptativos, altamente prevalentes en adolescentes que sufren ansiedad social, como mecanismos mediadores entre la ansiedad social y la victimización, así como el rol de la ansiedad social en la persistencia de la victimización a lo largo del tiempo. Aunque no observan efectos de la ansiedad sobre la persistencia del bullying, la ansiedad parece predecirlo al vincularse a esquemas desadaptativos. Además, el bullying se relaciona con un aumento de la ansiedad a lo largo del tiempo. En un estudio reciente, Barzeva et al. (2020) examinan el rol de la victimización entre iguales y de la aceptación por parte de los y las iguales en la relación entre el aislamiento social y la ansiedad social, observando que las experiencias con los y las iguales predicen el aislamiento social.
+
+A pesar de la gran cantidad de estudios que demuestran la relación de la victimización entre iguales con la ansiedad y la depresión, son muy pocos los que han examinado los mecanismos que subyacen a la asociación entre ser víctima de bullying y sus consecuencias psicosociales analizando variables vinculadas a la autoobservación del mundo interior de las víctimas, como pueden ser la culpa o la autoestima (Wu et al., 2021).
+
+La autoestima como factor mediador
+La autoestima se define como la evaluación positiva o negativa de uno mismo, es decir, la autoestima positiva implica estar satisfecho, respetarse y valorarse como persona, mientras que la autoestima negativa supone auto-rechazarse, auto-despreciarse o no estar satisfecho con uno mismo (Rosenberg, 1965). En dos meta-análisis llevados a cabo a partir de estudios longitudinales centrados en la relación entre la victimización entre iguales y la autoestima (van Geel et al., 2018), se concluye que el bullying puede llevar a una menor autoestima debido a que las evaluaciones negativas por parte de los y las iguales llegan a interiorizarse (Overbeek et al., 2010; Salmivalli et al., 1999). Los autores afirman que los resultados observados pueden indicar que la victimización y la autoestima se retroalimentan de forma que el acoso reduce la autoestima y, a su vez, los y las adolescentes que presentan una baja autoestima son más propensos a sufrir acoso.
+
+Tratando de explicar la asociación entre la victimización entre iguales, la autoestima y los problemas emocionales de ansiedad y depresión, algunos autores defienden que la culpa junto con la vergüenza, la frustración y el miedo que sienten frecuentemente las víctimas de acoso (Irwin et al., 2016; Strøm et al., 2018), hace que estas tengan una menor autoestima (Jones et al., 2014; Tsaousis, 2016), que, a su vez, se ha mostrado como un predictor importante de la ansiedad social observada en estas personas (Bowles, 2016; Hiller et al., 2017). Por otra parte, diversos estudios han encontrado que la baja autoestima constituye un factor de riesgo para la depresión (Orth et al., 2014; Zhong et al., 2021; Zhou et al., 2020). En la literatura existen dos modelos principales que tratan de explicar la relación entre una baja autoestima y la depresión. El modelo de vulnerabilidad sugiere que las evaluaciones negativas acerca de uno mismo constituyen un factor de riesgo para desarrollar depresión (Beck, 1967; Butler et al., 1994; Metalsky et al., 1993). Por otro lado, el modelo de cicatriz defiende que la baja autoestima no es un factor de riesgo sino una consecuencia de la depresión debido a que los episodios depresivos generan cicatrices permanentes en el autoconcepto de una persona (Coyne et al., 1998; Rohde et al., 1990). Es importante señalar que ambos modelos no son excluyentes y que los procesos que se acaban de describir pueden desarrollarse simultáneamente.
+
+Por otra parte, hay dos teorías que apoyan que la autoestima tenga mayor relación con la depresión que con la ansiedad. De acuerdo con el modelo tripartito (Clark et al., 1994), ello se debe a que mientras la ansiedad solo se asocia al afecto negativo, la depresión y la baja autoestima se relacionan tanto con el afecto positivo como negativo (Watson et al., 2002). La segunda teoría, denominada hipótesis de contenido cognitivo (Beck et al., 1992) plantea que los procesos cognitivos vinculados a la depresión reflejan evaluaciones negativas acerca de uno mismo, del mundo y del futuro, mientras que los vinculados a la ansiedad reflejan la anticipación de una amenaza física o psicológica. Por ello, una baja autoestima debería mostrar mayor relación con la depresión que con la ansiedad. Los resultados obtenidos en el meta-análisis de Sowislo y Orth 2013 proporcionan un apoyo sólido al modelo de vulnerabilidad que trata de explicar la relación entre la baja autoestima y la depresión. Además, también concluyen que la relación entre la baja autoestima y la ansiedad es bidireccional y de menor magnitud que la observada en el caso de la depresión.
+
+A pesar de la relevancia de la autoestima en la vida de las personas y de la gran cantidad de estudios que avalan su vinculación con problemas emocionales, el efecto mediador de la autoestima en la relación entre sufrir bullying y padecer ansiedad y depresión ha recibido poca atención en la literatura y los estudios que han tratado de comprobar empíricamente este efecto son escasos.
+
+Por otra parte, diversos estudios han observado que el nivel de autoestima (Bleidorn et al., 2016; Kling et al., 1999; Quatman y Watson, 2001), depresión (Hyde et al., 2008; Nolen-Hoeksema, 1990) y ansiedad (Lewinsohn et al., 1998; McLean et al., 2011) varían en función del sexo. Sin embargo, cuando se examina la relación entre estos constructos, hay estudios que encuentran efectos de sexo (Gao et al., 2022; Moksnes y Espnes, 2012; Russo et al., 1993) y otros en los que no se observan diferencias entre chicos y chicas (Sowislo y Orth, 2013). Lo mismo cabe decir cuando se revisa la literatura centrada en las relaciones que mantiene la victimización entre iguales con las variables examinadas en el presente estudio. Así, mientras algunos autores encuentran diferencias en función del sexo (Bernasco et al., 2022; Yen et al., 2013), otros no observan tales diferencias en las relaciones examinadas (Forbes et al., 2019; Storch et al., 2003).
+
+El presente estudio
+Todo lo señalado hasta el momento pone de manifiesto que la victimización entre iguales tiene graves consecuencias para la salud física y mental, pudiendo incluso llevar a la muerte. Por ello, el estudio de las consecuencias del bullying y de los posibles factores que incrementan sus efectos tiene una gran relevancia. En este contexto, el objetivo principal del presente estudio es analizar la relación entre la victimización entre iguales y dos trastornos emocionales que tienen gran repercusión en la salud de niños, niñas y adolescentes, como son la ansiedad y la depresión. Sin embargo, para poder llegar a realizar una adecuada intervención donde se trabajen los factores facilitadores de los efectos del acoso y así conseguir atenuar sus consecuencias, es imprescindible detectar las causas que pueden contribuir a explicar por qué ejerce el bullying influencia sobre la ansiedad y la depresión. Este estudio pretende contribuir a cubrir esa laguna analizando si la autoestima constituye una de tales causas. Partiendo de la literatura existente, se espera que, en la muestra del presente estudio, el hecho de ser víctima de bullying se relacione de forma positiva con sufrir ansiedad y depresión. Además, se hipotetiza que la autoestima actuará como variable mediadora en esta relación, pudiendo ser una de las causas que subyacen a los problemas emocionales observados en las personas que sufren acoso.
+
+Método
+Participantes
+Se ha utilizado un muestreo intencional teniendo en cuenta que estuvieran suficientemente representados los distintos niveles académicos de la población objetivo (niños, niñas y adolescentes residentes en la Comunidad Autónoma del País Vasco). En el estudio han participado 550 niños y niñas y adolescentes (56.5% mujeres) de 6 centros educativos, la mayoría de ellos de carácter público, de la Comunidad Autónoma del País Vasco, con edades comprendidas entre los 10 y los 17 años (M=12.20, DT=1.75). El 50.7% cursan estudios de Educación Primaria (el 28.2% de 5° curso y el 22.5% de 6° curso) y el 49.3% de Educación Secundaria Obligatoria (el 17.1% en 1°, el 7.1% en 2°, el 12.5% en 3° y el 12.5% en 4°). El 5.8% de los participantes son inmigrantes y el 6.5% ha repetido, al menos, un curso académico. El 10.4% de la muestra no tiene hermanos, el 60.5% tiene uno, el 23.4% tiene 2 y el 5.7% tiene 3 o más. El 86.7% viven con ambos progenitores, el 1.1% sólo con el padre, el 7.9% sólo con la madre y el restante 4.3% con otras personas tales como sus abuelos, uno de sus progenitores y su pareja u otros familiares. El 46.8% de los padres y el 56.2% de las madres han cursado estudios superiores, el 37.9% de los padres y el 33.6% de las madres estudios de nivel medio y el 15.3% de los padres y el 10.2% de las madres dispone de estudios de nivel básico. Se ha estimado el tamaño muestral necesario teniendo en cuenta las indicaciones de Wolf et al. (2013), concluyendo que una muestra de 460 participantes sería suficiente para detectar un efecto directo de .25, un efecto indirecto de .06 y una R2 de .16 con un nivel de significación de .05 y una potencia de 95% para los efectos directos y de 84% para los efectos indirectos.
+
+Instrumentos
+Cuestionario de variables sociodemográficas. Se ha utilizado un cuestionario elaborado ad-hoc para recabar información sobre las siguientes variables sociodemográficas: sexo, edad, lugar de nacimiento, rendimiento académico en lo que respecta a la repetición de, al menos, un curso académico, formación académica y situación profesional de los padres y de las madres y composición de la unidad de convivencia familiar.
+
+Cuestionario para la evaluación de la victimización entre iguales (ISEI-IVEI, 2012). Se trata de un instrumento que evalúa 19 conductas que hacen referencia a cinco tipos de acoso (maltrato verbal, exclusión social, maltrato físico, agresión a las pertenencias y ciberbullying). Las 19 conductas se evalúan en una escala Likert que oscila entre 1=Nunca, y 4=Siempre. El rango de puntuaciones oscila entre 19 y 76. Se responde desde el punto de vista de la víctima, del testigo y del victimario. En el presente estudio se han aplicado los ítems referidos a ser víctima de tales conductas (por ejemplo “Jo egiten naute [Me pegan]”, “Iraintzen naute [Me insultan]” o “Gauzak hausten dizkidate [Me rompen cosas]”). A partir de las respuestas se calcula el índice general de maltrato que expresa el porcentaje de alumnado que “a menudo” o “siempre” ha sufrido al menos una de las conductas de maltrato. En la muestra del presente estudio, el índice Alpha de Cronbach del cuestionario presenta un valor de .90, el índice Omega de McDonald y el índice de Fiabilidad Compuesta de .97 y la Varianza Media Extractada de .64.
+
+Escala para la medición de la autoestima de Rosenberg (Rosenberg, 1965; en su versión en euskera de Apodaka, 2004). Esta escala evalúa la autoestima a través de 10 ítems que hacen referencia a las opiniones o autoevaluaciones, positivas o negativas, que tiene la persona evaluada acerca de sí misma (por ejemplo “Gauzak besteek bezain ondo egiteko gai naiz [Soy capaz de hacer las cosas tan bien como la mayoría de la gente]” o “Oro har, neure buruarekin pozik nago [En general estoy satisfecho de mí mismo]”). Los ítems se responden en una escala Likert que oscila entre 1=Totalmente en desacuerdo, y 4=Totalmente de acuerdo. El rango de puntuaciones oscila entre 10 y 40. Los ítems que hacen referencia a autoevaluaciones negativas han sido recodificados en sentido positivo, de forma que una mayor puntuación en la escala indica una mayor autoestima. En la muestra del presente estudio, el índice Alpha de Cronbach de la escala presenta un valor de .76, el índice Omega de McDonald de .86, el índice de Fiabilidad Compuesta de .86 y la Varianza Media Extractada de .39.
+
+Cuestionario Educativo-Clínico: Ansiedad y Depresión (CECAD; Lozano et al., 2013; en su versión en euskera; Gorostiaga et al., 2018). Es un instrumento de 49 ítems que evalúa los trastornos emocionales ansiedad (20 ítems) y depresión (29 ítems) en personas de una edad igual o superior a los 7 años (Ejemplos de ítems: “Asko kostatzen zait lo egitea [Me cuesta mucho dormir] (Ansiedad)” o “Dena gaizki egiten dudala pentsatzen dut [Pienso que todo lo hago mal]” (Depresión). Los ítems se responden en una escala Likert de 5 puntos (desde 1=Nunca, a 5=Siempre). El rango de puntuaciones oscila entre 20 y 100 para la ansiedad y entre 29 y 145 para la depresión. El instrumento presenta propiedades psicométricas adecuadas tanto en su versión original como en la adaptación al euskera. En la muestra del presente estudio, los índices Alpha de Cronbach presentan un valor de .86 y .92, los índices Omega de McDonald de .78 y .92, los índices de Fiabilidad Compuesta de .89 y .88, y las Varianzas Medias Extractadas de .30 y .28, respectivamente, para las dimensiones de ansiedad y depresión.
+
+Procedimiento
+Los y las participantes han respondido presencialmente a los instrumentos en una única sesión que se ha desarrollado de forma colectiva en sus respectivos centros educativos bajo condiciones que preservan su anonimato. Los instrumentos han sido cumplimentados en el siguiente orden: cuestionario de variables sociodemográficas, versión en euskera del CECAD, escala de autoestima de Rosenberg y cuestionario para evaluar la victimización entre iguales. Las respuestas de 45 personas han sido eliminadas por dejar sin responder más de un 5% de ítems en, al menos, una de las escalas. En el resto de los casos los valores perdidos han sido imputados. El estudio cuenta con la aprobación del comité de ética para la investigación y la docencia con seres humanos de la Universidad del País Vasco.
+
+Análisis estadísticos
+El cálculo de los estadísticos descriptivos y de las correlaciones se ha llevado a cabo mediante el paquete estadístico SPSS (versión 27). Se ha utilizado el software MPLUS 7 tanto para analizar el ajuste del modelo de medida que incluye los tres instrumentos que evalúan la victimización, la autoestima y los problemas emocionales de ansiedad y depresión, como para examinar el ajuste del modelo estructural que incluye la victimización como variable predictora, la autoestima como variable mediadora y la ansiedad y la depresión como variables criterio. Las asociaciones entre las variables latentes de este modelo se han estimado controlando las variables sexo y edad. Debido a que los datos son de naturaleza ordinal y no siguen una distribución normal, se ha utilizado el estimador WLSMV (mínimos cuadrados ponderados ajustado por media y varianza) para el análisis. El ajuste del modelo se ha evaluado mediante los siguientes índices: TLI, CFI y RMSEA. Los valores de corte para que el ajuste sea considerado aceptable son TLI y CFI ≥ .90; RMSEA ≤ .08 (Hu y Bentler, 1999). Aunque también se ha calculado el estadístico χ2, no se ha tenido en cuenta para la evaluación del ajuste del modelo por resultar muy sensible al tamaño muestral. Finalmente, se ha utilizado el procedimiento Bootstrapping con 2000 remuestreos a fin de calcular los intervalos de confianza del 95% y evaluar la significación de los efectos indirectos. Un efecto se ha considerado estadísticamente significativo cuando el intervalo de confianza no incluye el valor cero. Los valores perdidos se han reemplazado por el valor promedio de la dimensión.
+
+Cabe señalar que antes de proceder a analizar los datos para el conjunto de la muestra, se han llevado a cabo análisis descriptivos para examinar si la distribución de las variables sexo, edad y nivel educativo es similar en todos los centros. Además, también se han realizado análisis de la varianza para examinar si existen diferencias notables en ansiedad, depresión y autoestima en función del centro educativo. Debido a la ausencia de diferencias importantes entre centros, se ha decidido utilizar la muestra en su conjunto para todos los análisis del estudio.
+
+Resultados
+Estadísticos descriptivos y correlaciones
+En la Tabla 1 se presentan los estadísticos descriptivos para toda la muestra en edad, victimización, autoestima, ansiedad y depresión, así como las correlaciones bivariadas entre las variables.
+
+Tabla 1.
+Estadísticos descriptivos y correlaciones de Spearman
+
+ 	M 	DT 	Asim 	Curt 	Rango 	1 	2 	3 	4 
+1. Edad 	12.25 	1.75 	.58 	-.71 	10−17 	 	 	 	 
+2. Victimización 	22.11 	4.82 	4.34 	28.89 	19−70 	-.17* 	 	 	 
+3. Autoestima 	31.98 	4.78 	-.56 	-.15 	18−40 	-.09 	-.33* 	 	 
+4. Ansiedad 	38.31 	9.64 	.93 	1.43 	21−83 	-.07 	.37* 	-.43* 	 
+5. Depresión 	56.01 	14.72 	1.01 	1.47 	29−124 	.09 	.36* 	-.50* 	.78* 
+M=Media; DT=Desviación Típica; Rango=Rango de puntuaciones; Edad=Edad cronológica en años.
+
+*
+p<.005 (alpha corregida de Bonferroni: .05 / 10 correlaciones).
+
+Como cabía esperar, el hecho de sufrir acoso correlaciona de forma positiva con la ansiedad y la depresión y de forma negativa con la autoestima. A su vez, la autoestima presenta correlaciones negativas y de alta magnitud con la ansiedad y la depresión. En cuanto a la prevalencia de acoso sufrido, según el índice general de maltrato, un 85.1% del alumnado declara no haber sufrido acoso frente a un 14.9% que declara sí haberlo sufrido.
+
+Análisis de ecuaciones estructurales
+El modelo de medida presenta un buen ajuste χ2(2750)=3659.28, p<.001, CFI=.95, TLI=.95, RMSEA=.026 [90% IC .023, .028] y, tal y como se puede observar en la Tabla 2, las cargas factoriales de los ítems en sus respectivos factores son adecuadas (en la tabla suplementaria 1 se presentan todos los pesos estandarizados). En la Figura 1 se representa gráficamente el modelo estructural junto con los coeficientes estandarizados correspondientes a cada una de las relaciones entre las variables latentes.
+
+Tabla 2.
+Rango y media de las cargas factoriales estandarizadas del modelo de medida
+
+ 	 	Cargas factoriales
+ 	Número de ítems 	Rango 	Media 
+Victimización 	19 	.65−.94 	.80 
+Autoestima 	10 	.38−.80 	.60 
+Ansiedad 	20 	.31−.80 	.53 
+Depresión 	29 	.42−.84 	.60 
+Modelo de mediación. * p < .05 ** p <.01. *** p <.001.
+Figura 1.
+Modelo de mediación. * p < .05 ** p <.01. *** p <.001.
+
+El modelo de mediación representado en la Figura 1 también presenta un buen ajuste, χ2(2898)=4008.56, p <.001, CFI=.94, TLI=.94, RMSEA=.028 [90% IC .025, .030]. Asimismo, cabe señalar que la dirección de todas las relaciones en el modelo es la que cabía esperar desde el punto de vista teórico y que todas ellas resultan estadísticamente significativas. En cuanto a los efectos directos, el hecho de haber sufrido bullying ejerce un efecto de magnitud moderada sobre la ansiedad y algo menor sobre la depresión. En lo que respecta al efecto mediador de la autoestima, cabe señalar que resulta estadísticamente significativo tanto al predecir la ansiedad como la depresión. Además, cuando está mediatizado por la autoestima, el efecto del bullying sobre la depresión es mayor que su efecto directo. Esto no ocurre en el caso de la ansiedad, que muestra un valor predictivo de mayor magnitud a partir del bullying que a través del efecto mediador de la autoestima. En la Tabla 3 se presentan los efectos directos, indirectos y totales del modelo.
+
+Tabla 3.
+Efectos directos, indirectos y totales estandarizados
+
+ 	Efecto directo	Efecto indirecto	Efecto total 
+ 	Beta 	ET 	95% IC 	Beta 	ET 	95% IC 	Beta 
+Victimización– Ansiedad 	.270 	.061 	[.157, .356] 	.192 	.034 	[.147, .274] 	.462 
+Victimización– Depresión 	.172 	.057 	[.036, .246] 	.257 	.036 	[.213, .337] 	.429 
+ET=Error Típico; IC=Intervalo de Confianza.
+
+Discusión
+El presente estudio examina la asociación entre sufrir victimización entre iguales y presentar ansiedad y depresión en una muestra de niños y niñas y adolescentes del País Vasco tratando de esclarecer si la autoestima puede ser una de las causas que explican dicha asociación. En un meta-análisis centrado en los factores protectores frente al bullying y al ciberbullying, se concluye que la alta autoestima es uno de los factores individuales que se relaciona con un menor riesgo de sufrir acoso (ver meta-análisis de Zych et al., 2015). En la misma línea, diversos estudios han mostrado que la baja autoestima se vincula a un mayor riesgo de padecerlo (Estévez et al., 2009; Hutson, 2018; Kowalski y Limber, 2013; Wu et al., 2021). Estos hallazgos refuerzan la necesidad de examinar si la autoestima puede ser una de las causas que subyacen a los problemas emocionales de las personas que sufren acoso.
+
+Los resultados del presente estudio muestran que el hecho de sufrir acoso se relaciona directamente de forma significativa y positiva con padecer ansiedad y depresión, lo que corrobora la primera de las hipótesis propuestas y es coherente con hallazgos previos (Arseneault et al., 2010; Bottino et al., 2015; Lereya et al., 2013; Moore et al., 2017). Además, de acuerdo con la segunda hipótesis, los datos también muestran que la autoestima es una variable mediadora de la relación que presenta la victimización tanto con la ansiedad como con la depresión. Este efecto mediador también ha sido observado en los pocos estudios que lo han examinado (Zhong et al., 2021; Wu et al., 2021). Así, el presente estudio contribuye a explicar a través de qué mecanismos ejerce su influencia la victimización entre iguales.
+
+Los presentes hallazgos son consistentes con estudios previos que han concluido que existe una relación negativa entre la autoestima y la ansiedad (Greenberg et al., 1992). De acuerdo con Harter (1999), el nivel de autoestima de niños y niñas y adolescentes se ve afectado principalmente por dos factores: por un lado, percibirse uno mismo como competente en áreas importantes, y, por otro lado, tener apoyo social. Por ello, las personas con baja autoestima que se sienten incompetentes o inferiores al resto de las personas y que, además, siendo víctimas de acoso no perciben apoyo social, tienen mayores dificultades para hacer frente a los estímulos y, por lo tanto, sienten mayor miedo a futuros acontecimientos, lo que puede generar ansiedad (Sowislo y Orth, 2013).
+
+En lo que respecta a la depresión, el efecto mediador de la autoestima es coherente con la teoría de la depresión derivada de la desesperanza (Abramson et al., 1989; Liu et al., 2015) y con el modelo de vulnerabilidad (Beck, 1967; Butler et al., 1994; Metalsky et al., 1993). Este modelo defiende que la baja autoestima puede incrementar la depresión a través de mecanismos interpersonales e intrapersonales. En cuanto a los primeros, se ha comprobado que las personas con baja autoestima tienden a buscar, por parte de sus iguales, una retroalimentación negativa que refuerce su autoconcepto negativo. Ello puede llevarles a sufrir rechazo y a perder apoyo social, lo que incrementa el riesgo de padecer depresión (Giesler et al., 1996). Por su parte, uno de los mecanismos intrapersonales que se relacionan con la depresión parece ser la atención centrada en uno mismo (Mor y Winquist, 2002). De hecho, las personas con baja autoestima tienden a pensar constantemente en los aspectos negativos de sí mismos, lo que puede llevarles a desarrollar síntomas depresivos (Nolen-Hoeksema, 2000). También cabe señalar que, en comparación con los resultados observados en el caso de la ansiedad, la mayor relevancia que ha mostrado la autoestima como variable mediadora entre la victimización y la depresión es coherente con el modelo de vulnerabilidad.
+
+Limitaciones e implicaciones del estudio
+Este estudio tiene varias limitaciones. En primer lugar, se trata de un estudio transversal, por lo que los resultados no permiten establecer inferencias causales. La segunda limitación es que todas las variables han sido evaluadas a través de autoinformes. Aunque los autoinformes que evalúan ansiedad y depresión muestran una validez discriminante y convergente muy adecuadas (Hodges, 1990), la utilización de otros métodos para la recogida de datos, tales como las entrevistas, permitiría incrementar la fiabilidad de los resultados. Además, la muestra no es representativa de la población del País Vasco. Por ello, sería recomendable replicar estos resultados con otras muestras y en otros contextos culturales. Por último, añadir alguna otra variable mediadora al modelo como, por ejemplo, el apoyo social, la resiliencia o la vergüenza, permitiría explicar en mayor medida por qué ejerce el bullying una influencia negativa sobre la ansiedad y la depresión.
+
+A pesar de las limitaciones señaladas, el presente estudio realiza contribuciones importantes ya que proporciona evidencias que corroboran la relación entre la victimización, la ansiedad y la depresión y contribuye a aumentar el conocimiento acerca de los mecanismos que subyacen a la relación entre ser víctima de acoso y desarrollar sintomatología ansiosa y depresiva en la niñez y en la adolescencia. Teniendo en cuenta que la escuela es un contexto en el que las conductas de acoso se desarrollan con frecuencia, se deberían implementar protocolos para detectar tales conductas e intervenir con las personas implicadas y con sus familiares en todos los centros educativos. En la actualidad existen numerosos programas encaminados a prevenir el bullying. Por ejemplo, The Olweus Bullying Prevention Program (Olweus y Limber, 2019), The Bully Free Program (Beane et al., 2008) o The KiVa program (Kärnä et al., 2011). En España también se están desarrollando programas como el TEI (Programa de Tutoría Entre Iguales; González-Bellido, 2015), el AVE (Programa de prevención del Acoso y Violencia Escolar; Piñuel y Cortijo, 2018); el PREDEMA (Programa de Educación Emocional Para Adolescentes: De la Emoción al Sentido; Montoya-Castilla et al., 2016), el Cyberprogram 2.0 (Garaigordobil et al., 2016), el Buentrato (Sánchez-Ramos y Blanco-López, 2017) o el Asegúrate (Del Rey-Alamillo et al., 2018) que tratan de promover actitudes, comportamientos y relaciones de respeto equitativas que favorezcan el desarrollo de una buena convivencia y reduzcan las conductas de acoso (Espinosa et al., 2021). Aunque estos programas son necesarios, no resultan suficientes para erradicar el acoso. Por ello, debido a la dificultad que conlleva erradicar esta conducta tanto dentro como fuera del contexto educativo, y teniendo en cuenta que la autoestima ejerce gran influencia en el desarrollo de sintomatología ansiosa y depresiva, se concluye que el hecho de promover intervenciones destinadas a mejorar la autoestima y reducir los sentimientos de inferioridad y la apatía de los y las estudiantes que hayan sufrido acoso supondría un avance importante en este campo.
+
+Los resultados del presente estudio muestran que sufrir victimización entre iguales es un factor de riesgo para desarrollar ansiedad y depresión en la niñez y en la adolescencia. Además, la autoestima es una variable que subyace a la relación entre el bullying y ambos problemas emocionales. Esta acción mediadora de la autoestima resulta de gran relevancia en el caso de la depresión, dado que el efecto que tiene el bullying sobre la depresión aumenta cuando está mediatizado por la autoestima. Estos resultados contribuyen a explicar a través de qué mecanismos puede influir la victimización entre iguales al desarrollo de síntomas depresivos y ansiosos en la niñez y en la adolescencia.
+
+Financiación
+El estudio ha sido financiado por la convocatoria de ayudas a Grupos de Investigación del Sistema Universitario Vasco del Gobierno Vasco (Código: IT1493-22).
+
+Referencias
+[Abramson et al., 1989]
+Hopelessness depression: A theory-based subtype of depression.
+Psychological Review, 96 (1989), pp. 358-372
+http://dx.doi.org/10.1037/0033-295X.96.2.358
+[Apodaka, 2004]
+Komunikazioaren gizarte psikologia.
+Udako Euskal Unibertsitatea, (2004),
+[Arseneault et al., 2010]
+Bullying victimization in youths and mental health problems: “Much ado about nothing”?.
+Psychological Medicine, 40 (2010), pp. 717-729
+http://dx.doi.org/10.1017/2FS0033291709991383 | Medline
+[Bang y Park, 2017]
+Psychiatric disorders and suicide attempts among adolescents victimized by school bullying.
+Australasian Psychiatry, 25 (2017), pp. 376-380
+http://dx.doi.org/10.1177/1039856217715987 | Medline
+[Barlett y Coyne, 2014]
+A meta-analysis of sex differences in cyber-bullying behavior: The moderating role of age.
+Aggressive Behavior, 40 (2014), pp. 474-488
+http://dx.doi.org/10.1002/ab.21555 | Medline
+[Barzeva et al., 2020]
+The social withdrawal and social anxiety feedback loop and the role of peer victimization and acceptance in the pathways.
+Development and Psychopathology, 32 (2020), pp. 1402-1417
+http://dx.doi.org/10.1017/S0954579419001354 | Medline
+[Beane et al., 2008]
+The Bully Free Program: A profile for prevention in the school setting.
+School Violence and Primary Prevention, (2008), pp. 391-405
+http://dx.doi.org/10.1007/978-0-387-77119-9
+[Beck, 1967]
+Depression: clinical experimental and theoretical aspects.
+Hoeber Medical Division Harper & Row, (1967),
+[Beck et al., 1992]
+Self-concept dimensions of clinically depressed and anxious outpatients.
+Journal of Clinical Psychology, 48 (1992), pp. 423-432
+http://dx.doi.org/10.1002/1097-4679(199207)48:4<423::aid-jclp2270480402>3.0.co;2-g | Medline
+[Bernasco et al., 2022]
+Peer victimization, internalizing problems, and the buffering role of friendship quality: Disaggregating between- and within-person associations.
+Journal of Youth and Adolescence, 51 (2022), pp. 1653-1666
+http://dx.doi.org/10.1007/s10964-022-01619-z | Medline
+[Bleidorn et al., 2016]
+Age and gender differences in self-esteem—A cross-cultural window.
+Journal of Personality and Social Psychology, 111 (2016), pp. 396-410
+http://dx.doi.org/10.1037/pspp0000078 | Medline
+[Bottino et al., 2015]
+Cyberbullying and adolescent mental health: Systematic review.
+Cadernos de Saúde Pública, 31 (2015), pp. 463-475
+http://dx.doi.org/10.1590/0102-311x00036114 | Medline
+[Bowles, 2016]
+The focus of intervention for adolescent social anxiety: Communication skills or self-esteem.
+International Journal of School & Educational Psychology, 5 (2016), pp. 1-12
+http://dx.doi.org/10.1080/21683603.2016.1157051 | Medline
+[Brunstein Klomek et al., 2019]
+Bi-directional longitudinal associations between different types of bullying victimization, suicide ideation/attempts, and depression among a large sample of European adolescents.
+Journal of Child Psychology and Psychiatry, 60 (2019), pp. 209-215
+http://dx.doi.org/10.1111/jcpp.12951 | Medline
+[Buelga et al., 2022]
+Cyberbullying y conducta suicida en alumnado adolescente: Una revisión sistemática.
+Revista de Educación, 397 (2022), pp. 43-67
+http://dx.doi.org/10.4438/1988-592X-RE-2022-397-539
+[Butler et al., 1994]
+A comparison of self-esteem lability and low trait self-esteem as vulnerability factors for depression.
+Journal of Personality and Social Psychology, 66 (1994), pp. 166-177
+http://dx.doi.org/10.1037/0022-3514.66.1.166 | Medline
+[Çalişkan et al., 2019]
+Peer bullying in the preadolescent stage: Frequency and types of bullying and the affecting factors.
+Journal of Pediatric Research, 6 (2019), pp. 169-179
+[Calvete et al., 2018]
+Continued bullying victimization in adolescents: Maladaptive schemas as a mediational mechanism.
+Journal of Youth and Adolescence, 47 (2018), pp. 650-660
+http://dx.doi.org/10.1007/s10964-017-0677-5 | Medline
+[Clark et al., 1994]
+Temperament, personality, and the mood and anxiety disorders. Journal of.
+Abnormal Psychology, 103 (1994), pp. 103-116
+http://dx.doi.org/10.1037/0021-843X.103.1.103
+[Coelho y Romao, 2018]
+The relation between social anxiety, social withdrawal and (cyber)bullying roles: A multilevel analysis.
+Computers in Human Behavior, 86 (2018), pp. 218-226
+http://dx.doi.org/10.1016/j.chb.2018.04.048
+[Copeland et al., 2013]
+Adult psychiatric outcomes of bullying and being bullied by peers in childhood and adolescence.
+JAMA Psychiatry, 70 (2013), pp. 419-426
+http://dx.doi.org/10.1001/jamapsychiatry.2013.504 | Medline
+[Coyne et al., 1998]
+Effects of recent and past major depression and distress on self-concept and coping.
+Journal of Abnormal Psychology, 107 (1998), pp. 86-96
+http://dx.doi.org/10.1037/0021-843X.107.1.86 | Medline
+[Coyne et al., 2010]
+Aggression in childhood.
+The Wiley-Blackwell handbook of childhood social development, pp. 491-509 http://dx.doi.org/10.1002/9781119679028.ch31
+[Cunningham, 2007]
+Level of bonding to school and perception of the school environment by bullies, victims, and bully victims.
+The Journal of Early Adolescence, 27 (2007), pp. 457-478
+http://dx.doi.org/10.1177/2F0272431607302940
+[Del Rey-Alamillo et al., 2018]
+«Asegúrate» program: Effects on cyber-aggression and its risk factors.
+Comunicar, 26 (2018), pp. 39-48
+http://dx.doi.org/10.3916/C56-2018-04
+[Espinosa et al., 2021]
+Situación del bullying en España: leyes, prevención y atención.
+Olhares: Revista do Departamento de Educação da Unifesp, 9 (2021), pp. 5-20
+http://dx.doi.org/10.34024/olhares.2021.v9.10622
+[Estévez et al., 2009]
+Psychological adjustment in bullies and victims of school violence.
+European Journal of Psychology of Education, 24 (2009), pp. 473-483
+http://dx.doi.org/10.1007/BF03178762
+[Forbes et al., 2019]
+Depression, anxiety, and peer victimization: Bidirectional relationships and associated outcomes transitioning from childhood to adolescence.
+Journal of Youth Adolescence, 48 (2019), pp. 692-702
+http://dx.doi.org/10.1007/s10964-018-0922-6 | Medline
+[Gao et al., 2022]
+Gender differences in the relationship between self-esteem and depression among college students: A cross-lagged study from China.
+Journal of Research in Personality, 97 (2022), pp. 104202
+http://dx.doi.org/10.1016/j.jrp.2022.104202
+[Garaigordobil et al., 2016]
+Efectos de Cyberprogram 2.0 en factores del desarrollo socioemocional.
+Pensamiento Psicológico, 14 (2016), pp. 33-47
+http://dx.doi.org/10.11144/Javerianacali.PPSI14-1.ecfd
+[Garnefski y Kraaij, 2014]
+Bully victimization and emotional problems in adolescents: Moderation by specific cognitive coping strategies?.
+Journal of Adolescence, 37 (2014), pp. 1153-1160
+http://dx.doi.org/10.1016/j.adolescence.2014.07.005 | Medline
+[Giesler et al., 1996]
+Self-verification in clinical depression: The desire for negative evaluation.
+Journal of Abnormal Psychology, 105 (1996), pp. 358
+http://dx.doi.org/10.1037/0021-843X.105.3.358 | Medline
+[Gradinger et al., 2009]
+Traditional bullying and cyberbullying Identification of risk groups for adjustment problems.
+Journal of Psychology, 217 (2009), pp. 205-213
+http://dx.doi.org/10.1027/0044-3409.217.4.205
+[Greenberg et al., 1992]
+Why do people need self-esteem?. Converging evidence that self-esteem serves an anxiety-buffering function.
+Journal of Personality and Social Psychology, 63 (1992), pp. 913-922
+http://dx.doi.org/10.1037/0022-3514.63.6.913 | Medline
+[González-Bellido, 2015]
+Programa TEI “Tutoría entre iguales”.
+Innovación Educativa, 25 (2015), pp. 17-32
+http://dx.doi.org/10.15304/ie.25.2854
+[Gorostiaga et al., 2018]
+Manual técnico de la adaptación al euskera del CECAD Cuestionario Educativo Clínico: Ansiedad y Depresión.
+TEA Ediciones S.L, (2018),
+[Harter, 1999]
+The construction of the self. A developmental perspective.
+Guilford Press, (1999),
+[Hiller et al., 2017]
+On the context dependency of implicit self-esteem in social anxiety disorder.
+Journal of Behavior Therapy & Experimental Psychiatry, 57 (2017), pp. 118-125
+http://dx.doi.org/10.1016/j.jbtep.2017.05.005 | Medline
+[Hodges, 1990]
+Depression and anxiety in children: A comparison of self-report questionnaires to clinical interview.
+Psychological Assessment: A Journal of Consulting and Clinical Psychology, 2 (1990), pp. 376-381
+[Houbre et al., 2006]
+Bullying among students and its consequences on health.
+European Journal of Psychology of Education, 21 (2006), pp. 183-208
+http://dx.doi.org/10.1007/BF03173576
+[Hu y Bentler, 1999]
+Cutoff criteria for fit indexes in covariance structure analysis: Conventional criteria versus new alternatives.
+Structural Equation Modeling, 6 (1999), pp. 1-55
+http://dx.doi.org/10.1080/10705519909540118
+[Hutson, 2018]
+Integrative review of qualitative research on the emotional experience of bullying victimization in youth.
+The Journal of School Nursing, 34 (2018), pp. 51-59
+http://dx.doi.org/10.1177/2F1059840517740192 | Medline
+[Hyde et al., 2008]
+The ABCs of depression: Integrating affective, biological, and cognitive models to explain the emergence of the gender difference in depression.
+Psychological Review, 115 (2008), pp. 291-313
+http://dx.doi.org/10.1037/0033-295X.115.2.291 | Medline
+[Irwin et al., 2016]
+The role of shame in the relation between peer victimization and mental health outcomes.
+Journal of Interpersonal Violence, 34 (2016), pp. 156-181
+http://dx.doi.org/10.1177/0886260516672937 | Medline
+[ISEI-IVEI, 2012]
+ISEI-IVEI (2012). El maltrato entre iguales en primaria y secundaria. Gobierno Vasco.
+[Jones et al., 2014]
+Self-reported peer victimization and suicidal ideation in adolescent psychiatric inpatients: The mediating role of negative self-esteem.
+Clinical Child Psychology and Psychiatry, 19 (2014), pp. 606-616
+http://dx.doi.org/10.1177/1359104513492747 | Medline
+[Kärnä et al., 2011]
+Going to scale: A nonrandomized nationwide trial of the KiVa antibullying program for grades 1-9.
+Journal of Consulting and Clinical Psychology, 79 (2011), pp. 796-805
+http://dx.doi.org/10.1037/a0029174 | Medline
+[Kawabata et al., 2014]
+Mechanisms and processes of relational and physical victimization, depressive symptoms, and children's relational-interdependent self-construals: Implications for peer relationships and psychopathology.
+Development and Psychopathology, 26 (2014), pp. 619-634
+http://dx.doi.org/10.1017/S0954579414000273 | Medline
+[Khatri et al., 2000]
+Aggression and peer victimization as predictors of self-reported behavioral and emotional adjustment.
+Aggressive Behavior: Official Journal of the International Society for Research on Aggression, 26 (2000), pp. 345-358
+http://dx.doi.org/10.1002/1098-2337(2000)26:5%3C345::AID-AB1%3E3.0.CO;2-L
+[Kling et al., 1999]
+Gender differences in self-esteem: A meta-analysis.
+Psychological Bulletin, 125 (1999), pp. 470-500
+http://dx.doi.org/10.1037/0033-2909.125.4.470 | Medline
+[Kochel et al., 2012]
+Longitudinal associations among youth depressive symptoms, peer victimization, and low peer acceptance: An interpersonal process perspective.
+Child Development, 83 (2012), pp. 637-650
+http://dx.doi.org/10.1111/j.1467-8624.2011.01722.x | Medline
+[Kochel y Rafferty, 2020]
+Prospective associations between children's depressive symptoms and peer victimization: The role of social helplessness.
+British Journal of Developmental Psychology, 38 (2020), pp. 15-30
+http://dx.doi.org/10.1111/bjdp.12301 | Medline
+[Kowalski y Limber, 2013]
+Psychological, physical, and academic correlates of cyberbullying and traditional bullying.
+Journal of Adolescent Health, 53 (2013), pp. S13-S20
+http://dx.doi.org/10.1016/j.jadohealth.2012.09.018
+[Lemstra et al., 2012]
+Risk indicators and outcomes associated with bullying in youth aged 9-15 years.
+Canadian Journal of Public Health, 103 (2012), pp. 9-13
+http://dx.doi.org/10.1007/BF03404061 | Medline
+[Lereya et al., 2013]
+Parenting behavior and the risk of becoming a victim and a bully/victim: A meta-analysis study.
+Child Abuse & Neglect, 37 (2013), pp. 1091-1108
+http://dx.doi.org/10.1016/j.chiabu.2013.03.001 | Medline
+[Lewinsohn et al., 1998]
+Gender differences in anxiety disorders and anxiety symptoms in adolescents, Journal of.
+Abnormal Psychology, 107 (1998), pp. 109-117
+http://dx.doi.org/10.1037/0021-843X.107.1.109
+[Li, 2006]
+Cyberbullying in schools: A research of gender differences.
+School Psychology International, 27 (2006), pp. 157-170
+http://dx.doi.org/10.1177/0143034306064547
+[Lie et al., 2019]
+Is bullying and teasing associated with eating disorders?. A systematic review and meta-analysis.
+International Journal of Eating Disorders, 52 (2019), pp. 497-514
+http://dx.doi.org/10.1002/eat.23035 | Medline
+[Liu et al., 2015]
+The hopelessness theory of depression: A quarter-century in review.
+Clinical Psychology: Science and Practice, 22 (2015), pp. 345-365
+http://dx.doi.org/10.1111/cpsp.12125 | Medline
+[Lozano et al., 2013]
+CECAD. Cuestionario Educativo-Clínico: Ansiedad y Depresión (3ª ed.).
+TEA Ediciones S.L, (2013),
+[Magaz et al., 2016]
+Evaluación del bullying como victimización: Estructura, fiabilidad y validez del Cuestionario de Acoso entre Iguales (CAI).
+Revista de Psicopatología y Psicología Clínica, 21 (2016), pp. 77-95
+http://dx.doi.org/10.5944/rppc.vol.21.num.2.2016.16990
+[McLean et al., 2011]
+Gender differences in anxiety disorders: Prevalence, course of illness, comorbidity and burden of illness.
+Journal of Psychiatric Research, 45 (2011), pp. 1027-1035
+http://dx.doi.org/10.1016/j.jpsychires.2011.03.006 | Medline
+[Menesini et al., 2012]
+Cyberbullying definition among adolescents: A comparison across six European countries.
+Cyberpsychology, Behavior and Social Networking, 15 (2012), pp. 455-463
+http://dx.doi.org/10.1089/cyber.2012.0040 | Medline
+[Metalsky et al., 1993]
+Depressive reactions to failure in a naturalistic setting: A test of the hopelessness and self-esteem theories of depression, Journal of.
+Abnormal Psychology, 102 (1993), pp. 101-109
+http://dx.doi.org/10.1037/0021-843X.102.1.101
+[Moksnes y Espnes, 2012]
+Self-esteem and emotional health in adolescents – gender and age as a potential moderators.
+Scandinavian Journal of Psychology, 53 (2012), pp. 483-489
+http://dx.doi.org/10.1111/sjop.12021 | Medline
+[Montoya-Castilla et al., 2016]
+Programa de Educación Emocional para Adolescentes: De la Emoción al Sentido (PREDEMA).
+Pirámide, (2016),
+[Moore et al., 2017]
+Consequences of bullying victimization in childhood and adolescence: A systematic review and meta-analysis.
+World Journal of Psychiatry, 7 (2017), pp. 60-76
+http://dx.doi.org/10.5498/2Fwjp.v7.i1.60 | Medline
+[Mor y Winquist, 2002]
+Self-focused attention and negative affect: A meta-analysis.
+Psychological Bulletin, 128 (2002), pp. 638-662
+http://dx.doi.org/10.1037//0033-2909.128.4.638 | Medline
+[Nagamitsu et al., 2020]
+Prevalence and associated factors of suicidality in Japanese adolescents: Results from a population-based questionnaire survey.
+BMC Pediatrics, 20 (2020), pp. 467-475
+http://dx.doi.org/10.1186/s12887-020-02362-9 | Medline
+[Natvig et al., 2001]
+School-related stress experience as a risk factor for bullying behavior.
+Journal of Youth and Adolescence, 30 (2001), pp. 561-575
+http://dx.doi.org/10.1023/A: 1010448604838
+[Nolen-Hoeksema, 1990]
+Sex differences in depression.
+Stanford University Press, (1990),
+[Nolen-Hoeksema, 2000]
+The role of rumination in depressive disorders and mixed anxiety/depressive symptoms.
+Journal of Abnormal Psychology, 109 (2000), pp. 504-511
+http://dx.doi.org/10.1037/0021-843X.109.3.504 | Medline
+[Obando et al., 2018]
+Conducta autolesiva no suicida en adolescentes y su relación con factores personales y contextuales.
+Revista de Psicopatología y Psicología Clínica, 23 (2018), pp. 189-200
+http://dx.doi.org/10.5944/rppc.vol.23.num.3.2018.21278
+[Olweus, 1973]
+Hackkycklingar och översittare: Forskning om skolmobbning.
+Almqvist & Wiksell, (1973),
+[Olweus y Limber, 2019]
+The Olweus Bullying Prevention Program (OBPP): New evaluations and current status.
+Making an impact on school bullying: Interventions and recommendations., pp. 23-44 http://dx.doi.org/10.4324/9781351201957-2
+[Orth et al., 2014]
+Is low self-esteem a risk factor for depression? Findings from a longitudinal study of Mexican-origin youth.
+Developmental Psychology, 50 (2014), pp. 622-633
+http://dx.doi.org/10.1037/a0033817 | Medline
+[Overbeek et al., 2010]
+Peer victimization, self-esteem, and ego resilience types in adolescents: A prospective analysis of person-context interactions.
+Social Development, 19 (2010), pp. 270-284
+http://dx.doi.org/10.1111/j.1467-9507.2008.00535.x
+[Pedreira-Massa, 2019]
+Conductas suicidas en la adolescencia: Una guía práctica para la intervención y la prevención.
+Revista de Psicopatología y Psicología Clínica, 24 (2019), pp. 217-237
+http://dx.doi.org/10.5944/rppc.26280
+[Pells et al., 2016]
+Experiences of peer bullying among adolescents and associated effects on young adult outcomes: Longitudinal evidence from Ethiopia, India.
+Peru and Viet Nam. Innocenti Discussion Papers, 3 (2016), pp. 1-61
+[Piñuel y Cortijo, 2018]
+Cómo prevenir el acoso escolar La implantación de protocolos antibullying en los centros escolares: una visión práctica y aplicada.
+Fundación Universitaria San Pablo CEU, (2018),
+[Pornari y Wood, 2010]
+Peer and cyber aggression in secondary school students: The role of moral disengagement, hostile attribution bias, and outcome expectancies.
+Aggressive Behavior, 36 (2010), pp. 81-94
+http://dx.doi.org/10.1002/ab.20336 | Medline
+[Quatman y Watson, 2001]
+Gender differences in adolescent self-esteem: An exploration of domains.
+The Journal of Genetic Psychology, 162 (2001), pp. 93-117
+http://dx.doi.org/10.1080/00221320109597883 | Medline
+[Rosenberg, 1965]
+Rosenberg self-esteem scale (RSE). Acceptance and Commitment Therapy.
+Measures package, 61 (1965), pp. 18
+[Rohde et al., 1990]
+Are people changed by the experience of having an episode of depression? A further test of the scar hypothesis.
+Journal of Abnormal Psychology, 99 (1990), pp. 264-271
+http://dx.doi.org/10.1037/0021-843X.99.3.264 | Medline
+[Russo et al., 1993]
+The relationship of gender, self-esteem, and instrumentality to depressive symptomatology.
+Journal of Social and Clinical Psychology, 12 (1993), pp. 218-236
+[Sánchez-Ramos y Blanco-López, 2017]
+El “Buentrato”, programa de prevención del acoso escolar, otros tipos de violencia y dificultades de relación Una experiencia éxito con alumnos, profesores y familia.
+Revista de Estudios de Juventud, 115 (2017), pp. 115-136
+[Salmivalli et al., 1999]
+Self-evaluated self-esteem, peer-evaluated self-esteem, and defensive egotism as predictors of adolescents’ participation in bullying situations.
+Personality and Social Psychology Bulletin, 25 (1999), pp. 1268-1278
+http://dx.doi.org/10.1177/0146167299258008
+[Schwartz et al., 2005]
+Victimization in the peer group and children's academic functioning.
+Journal of Educational Psychology, 97 (2005), pp. 425-435
+http://dx.doi.org/10.1037/0022-0663.97.3.425
+[Sentse et al., 2017]
+Testing the direction of longitudinal paths between victimization, peer rejection, and different types of internalizing problems in adolescence.
+Journal of Abnormal Child Psychology, 45 (2017), pp. 1013-1023
+http://dx.doi.org/10.1007/s10802-016-0216-y | Medline
+[Smith et al., 2002]
+Definitions of bullying: A comparison of terms used, and age and gender differences, in a fourteen country international comparison.
+Child Development, 73 (2002), pp. 1119-1133
+http://dx.doi.org/10.1111/1467-8624.00461 | Medline
+[Smith et al., 2008]
+Cyberbullying: Its nature and impact in secondary school pupils.
+The Journal of Child Psychology and Psychiatry, 49 (2008), pp. 376-385
+http://dx.doi.org/10.1111/j.1469-7610.2007.01846.x | Medline
+[Sowislo y Orth, 2013]
+Does low self-esteem predict depression and anxiety?. A meta-analysis of longitudinal studies.
+Psychological Bulletin, 139 (2013), pp. 213-240
+http://dx.doi.org/10.1037/a0028931 | Medline
+[Storch et al., 2003]
+Peer victimization and social-psychological adjustment in Hispanic and African-American children.
+Journal of Child and Family Studies, 12 (2003), pp. 439-452
+http://dx.doi.org/10.1023/A: 1026016124091
+[Strøm et al., 2018]
+Strøm, I. F., Aakvaag, H. F., Birkeland, M. S., Felix, E., y Thoresen, S. I. (2018). The mediating role of shame in the relationship between childhood bullying victimization and adult psychosocial adjustment. European Journal of Psychotraumatology, 9(1), 1-13. https://doi.org/10.1080/20008198.2017.1418570
+[Sweeting et al., 2006]
+Peer victimization and depression in early–mid adolescence: A longitudinal study.
+British Journal of Educational Psychology, 76 (2006), pp. 577-594
+http://dx.doi.org/10.1348/000709905X49890 | Medline
+[Tokunaga, 2010]
+Following you home from school: A critical review and synthesis of research on cyberbullying victimization.
+Computers in Human Behavior, 26 (2010), pp. 277-287
+http://dx.doi.org/10.1016/j.chb.2009.11.014
+[Troop-Gordon et al., 2015]
+Peer victimization in middle childhood impedes adaptive responses to stress: A pathway to depressive symptoms, Journal of Clinical Child &.
+Adolescent Psychology, 44 (2015), pp. 432-445
+http://dx.doi.org/10.1080/15374416.2014.891225
+[Tsaousis, 2016]
+The relationship of self-esteem to bullying perpetration and peer victimization among schoolchildren and adolescents: A meta-analytic review.
+Aggression and Violent Behavior, 31 (2016), pp. 186-199
+http://dx.doi.org/10.1016/j.avb.2016.09.005
+[Ttofi y Farrington, 2011]
+Effectiveness of school-based programs to reduce bullying: A systematic and meta-analytic review.
+Journal of Experimental Criminology, 7 (2011), pp. 27-56
+http://dx.doi.org/10.1007/s11292-010-9109-1
+[van Geel et al., 2018]
+Does peer victimization predict low self-esteem, or does low self-esteem predict peer victimization?.
+Meta-analyses on longitudinal studies. Developmental Review, 49 (2018), pp. 31-40
+http://dx.doi.org/10.1016/j.dr.2018.07.001
+[Vessey y O’Neill, 2011]
+Helping students with disabilities better address teasing and bullying situations: A MASNRN study.
+The Journal of School Nursing, 27 (2011), pp. 139-148
+http://dx.doi.org/10.1177/1059840510386490 | Medline
+[Watson et al., 2002]
+Global self-esteem in relation to structural models of personality and affectivity.
+Journal of Personality and Social Psychology, 83 (2002), pp. 185-197
+http://dx.doi.org/10.1037/0022-3514.83.1.185 | Medline
+[Wichstrøm et al., 2013]
+Preschool predictors of childhood anxiety disorders: A prospective community study.
+Journal of Child Psychology and Psychiatry, 54 (2013), pp. 1327-1336
+http://dx.doi.org/10.1111/jcpp.12116 | Medline
+[Wolf et al., 2013]
+Sample size requirements for structural equation models: An evaluation of power, bias, and solution propriety.
+Educational and Psychological Measurement, 76 (2013), pp. 913-934
+http://dx.doi.org/10.1177/0013164413495237 | Medline
+[Wu et al., 2021]
+Bullying victimization and adolescents’ social anxiety: Roles of shame and self-Esteem.
+Child Indicators Research, 14 (2021), pp. 769-781
+http://dx.doi.org/10.1007/s12187-020-09777-x
+[Ybarra y Mitchell, 2004]
+Online aggressor/targets, aggressor and targets: A comparison of associated youth characteristics.
+Journal of Child Psychology and Psychiatry, 45 (2004), pp. 1308-1316
+http://dx.doi.org/10.1111/j.1469-7610.2004.00328.x | Medline
+[Yen et al., 2013]
+Association between types of involvement in school bullying and different dimensions of anxiety symptoms and the moderating effects of age and gender in Taiwanese adolescents.
+Child Abuse & Neglect, 37 (2013), pp. 263-272
+http://dx.doi.org/10.1016/j.chiabu.2013.01.004 | Medline
+[Young et al., 2003]
+Schema therapy. A practitioneŕs guide.
+Guilford Press, (2003),
+[Zhong et al., 2021]
+Association between bullying victimization and depressive symptoms in children: The mediating role of self-esteem.
+Journal of Affective Disorders, 294 (2021), pp. 322-328
+http://dx.doi.org/10.1016/j.jad.2021.07.016 | Medline
+[Zhou et al., 2020]
+Longitudinal association between low self-esteem and depression in early adolescents: The role of rejection sensitivity and loneliness.
+Psychology and Psychotherapy: Theory, Research and Practice, 93 (2020), pp. 54-71
+http://dx.doi.org/10.1111/papt.12207
+[Zych et al., 2015]
+Scientific research on bullying and cyberbullying: Where have we been and where are we going.
+Aggression and Violent Behavior, 24 (2015), pp. 188-198
+http://dx.doi.org/10.1016/j.avb.2015.05.015
+Copyright © 2022. Universidad de País Vasco
+
+
+Suscríbase a la newsletter
+Introduzca su email
+ 
+Publique en
+Revista de Psicodidáctica
+Guía para autores
+Envío de manuscritos
+Inclusión y diversidad
+Opción Open Access
+Servicios de edición
+Herramientas
+Imprimir
+Enviar a un amigo
+Exportar referencia
+CrossMark
+Mendeley
+Estadísticas
+plumx
+Artículos
+recomendados
+Acoso escolar en la adolescencia: impacto en el ajuste...
+Rev Psic . 2022;27:141-8
+Los efectos a largo plazo de las competencias emocionales y...
+Rev Psic . 2021;26:113-22
+Ansiedad y depresión en contextos educativos: prevalencia,...
+Rev Psic . 2024;29:1-8
+FECYT
+
+Descargar PDF
+Revista de Psicodidáctica
+Inicio
+Recursos
+Revistas
+Colecciones
+Cursos
+Permisos reproducción
+Regístrese
+Publique en esta revista
+Envío de manuscritos
+Guía para autores
+Comité editorial
+Contactar
+Acerca de Elsevier
+Soporte y contacto
+Trabaja con nosotros
+Dónde estamos
+Información legal
+Términos y condiciones
+Política de privacidad
+Sigue a Elsevier
+facebook twitter youtube
+elsevier	Todo el contenido en este sitio: Copyright © 2026 Elsevier España SLU, sus licenciantes, licenciatarios, afiliados y colaboradores. Se reservan todos los derechos, incluidos los de minería de texto y datos, entrenamiento de IA y tecnologías similares. Para todo el contenido de acceso abierto, se aplican los términos de licencia de Creative Commons.
+En este sitio se utilizan Cookies excepto para cierto contenido proporcionado por terceros. Para rechazar o conocer más, visite nuestra página de Configuración de cookies.	
+¿Es usted profesional sanitario apto para prescribir o dispensar medicamentos?
+
+  
