@@ -14,7 +14,13 @@ class PilotNotebookLM {
         die("Error: El archivo config.php no existe.");
     }
 
+    public function __construct() {
+        // Usamos las constantes definidas en config.php
+        $this->apiKey = GEMINI_API_KEY;
+    }
+
     public function responder($pregunta) {
+
         $url = "https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=" . $this->apiKey;
 
         // 1. Preparamos las partes del mensaje
