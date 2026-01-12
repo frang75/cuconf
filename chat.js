@@ -7,11 +7,15 @@ const openBtn = document.getElementById('iaempatica');
 const closeBtn = document.getElementById('closeChat');
 const sendBtn = document.getElementById('sendBtn');
 const clearBtn = document.getElementById('clearBtn');
+const progBar = document.getElementById('progressBar');
 
 // Abrir / cerrar diálogo soy carla
 openBtn.addEventListener('click', () => {
   chat = document.getElementById('chatModal')
   chat.classList.toggle('visible');
+  sendBtn.disabled = false;
+  clearBtn.disabled = false;
+  progBar.hidden = true;
   // chat.remove('hidden');
   //  modal.classList.remove('hidden');
 });
@@ -52,6 +56,9 @@ async function sendQuestion() {
   try {
     // const url = `https://jsonplaceholder.typicode.com/posts/1`;
 
+    sendBtn.disabled = true;
+    clearBtn.disabled = true;
+    progBar.hidden = false;
 
     const url = `https://nappgui.com/cuconf/iaserv/iachat.php?mensaje=${
         encodeURIComponent(question)}`;
@@ -63,6 +70,9 @@ async function sendQuestion() {
     }
 
 
+    sendBtn.disabled = false;
+    clearBtn.disabled = false;
+    progBar.hidden = true;
 
     // const response =
     //     await

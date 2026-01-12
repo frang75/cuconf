@@ -260,6 +260,10 @@ button {
     font-family:'Montserrat';
 }
 
+.modal-content progress {
+    width: 100%;
+}
+
 .modal-content input {
   height: 100px;
 }
